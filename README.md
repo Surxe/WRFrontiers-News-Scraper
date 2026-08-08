@@ -90,6 +90,13 @@ allow it once. To edit it in the GUI instead: right-click the desktop →
 *Create New → Link to Application*, then point *Command* at
 `scripts/run-snapshot.sh` and tick *Run in terminal* under the *Application* tab.
 
+**Icon.** The launcher's `Icon=` points at `assets/icon.svg` in the repo (an
+absolute path), so KDE uses that bundled icon rather than a generic theme one.
+`Icon=` accepts either a themed name (e.g. `applications-internet`) or an
+absolute path to a `.png`/`.svg`; swap the line in the `.desktop` file to change
+it. If you move the repo, update that path (and re-copy the file). To set it via
+the GUI, use the icon button on the *General* tab of the entry's properties.
+
 ### Recommended cadence
 
 Run on each in-game update (weekly, when the discount refreshes — Tuesdays
@@ -100,6 +107,8 @@ captures every edit to the bumped articles in git history.
 
 ```
 wrf-news-research/
+├── assets/
+│   └── icon.svg                   # launcher icon (referenced by the .desktop file)
 ├── scripts/
 │   ├── snapshot.py                # fetch news list + N latest articles
 │   ├── run-snapshot.sh            # double-clickable wrapper (cd + run + pause)
