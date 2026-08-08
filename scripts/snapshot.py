@@ -32,6 +32,7 @@ import re
 import sys
 import urllib.error
 import urllib.request
+from datetime import date
 from pathlib import Path
 
 BASE = "https://warrobotsfrontiers.com"
@@ -61,12 +62,18 @@ def write_json(path: Path, data) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="Snapshot the WRF news feed to a data dir.")
-    ap.add_argument("--out", default="data", type=Path, help="output directory (default: data)")
+    ap.add_argument("--out", default="data", type=Path, help="base output directory (default: data)")
+    ap.add_argument("--date", default=None,
+                    help="day subfolder as YYYY-MM-DD (default: today, local time)")
     ap.add_argument("--page", type=int, default=1, help="news list page to snapshot (default: 1)")
     ap.add_argument("--latest", type=int, default=3, help="number of latest articles to fetch in full (default: 3)")
     args = ap.parse_args()
 
-    out: Path = args.out
+    # Snapshots are bucketed per day: data/<YYYY-MM-DD>/. Re-running on the same
+    # day overwrites that day's files (idempotent); a new day starts a fresh
+    # folder, so edited/bumped articles are captured separately per pull-day.
+    day = args.date or date.today().isoformat()
+    out: Path = args.out / day
     articles_dir = out / "articles"
     out.mkdir(parents=True, exist_ok=True)
     articles_dir.mkdir(parents=True, exist_ok=True)

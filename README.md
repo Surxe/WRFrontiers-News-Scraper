@@ -44,22 +44,51 @@ history via `git log -p data/`.
 
 Each run it:
 
-1. Fetches `/api/news?page=1` → `data/news_list.json`.
+1. Fetches `/api/news?page=1` → `news_list.json`.
 2. Takes the **3 latest** items from that list and fetches each in full
    (`/api/news/{id}`), writing:
-   - `data/articles/<id>-<slug>.json` — full article payload.
-   - `data/articles/<id>-<slug>.content.html` — just the `content` body, so
+   - `articles/<id>-<slug>.json` — full article payload.
+   - `articles/<id>-<slug>.content.html` — just the `content` body, so
      edits diff readably.
 
-Files are **overwritten in place** each run. `data/` is gitignored by default,
-so snapshots are local working output; un-ignore it (edit `.gitignore`) if you
-want each run's changes recorded in git history.
+Output is **bucketed per day** under `data/<YYYY-MM-DD>/`. Re-running on the same
+day **overwrites that day's files** (idempotent), so a repeated pull just
+refreshes today's snapshot. A new day starts a fresh folder, so an article that
+was edited/bumped between days is captured separately per pull-day.
+
+`data/` is gitignored by default, so snapshots are local working output;
+un-ignore it (edit `.gitignore`) if you want the day folders recorded in git.
 
 ```bash
-python3 scripts/snapshot.py                 # page 1, 3 latest articles -> ./data
-python3 scripts/snapshot.py --latest 5      # capture more articles
-python3 scripts/snapshot.py --page 2 --out data/page2
+python3 scripts/snapshot.py                    # -> data/<today>/
+python3 scripts/snapshot.py --latest 5         # capture more articles
+python3 scripts/snapshot.py --date 2026-08-08  # force a specific day folder
+python3 scripts/snapshot.py --page 2           # snapshot an older list page
+
+# Or the double-clickable wrapper (keeps the terminal open at the end):
+scripts/run-snapshot.sh
 ```
+
+### Desktop shortcut (KDE)
+
+`scripts/wrf-news-snapshot.desktop` is a ready-made launcher that runs the
+wrapper in a terminal. Install it for your user:
+
+```bash
+# Appears in the K menu / app launcher:
+cp scripts/wrf-news-snapshot.desktop ~/.local/share/applications/
+update-desktop-database ~/.local/share/applications 2>/dev/null || true
+
+# ...and/or drop a clickable copy on the desktop:
+mkdir -p ~/Desktop
+cp scripts/wrf-news-snapshot.desktop ~/Desktop/
+chmod +x ~/Desktop/wrf-news-snapshot.desktop   # KDE requires the exec bit
+```
+
+The first time you launch a desktop copy, KDE may ask you to **trust** it —
+allow it once. To edit it in the GUI instead: right-click the desktop →
+*Create New → Link to Application*, then point *Command* at
+`scripts/run-snapshot.sh` and tick *Run in terminal* under the *Application* tab.
 
 ### Recommended cadence
 
@@ -72,10 +101,13 @@ captures every edit to the bumped articles in git history.
 ```
 wrf-news-research/
 ├── scripts/
-│   └── snapshot.py     # fetch news list + N latest articles into data/
-└── data/
-    ├── news_list.json               # /api/news?page=1
-    └── articles/
-        ├── <id>-<slug>.json         # full article payload
-        └── <id>-<slug>.content.html # article body HTML (readable diffs)
+│   ├── snapshot.py                # fetch news list + N latest articles
+│   ├── run-snapshot.sh            # double-clickable wrapper (cd + run + pause)
+│   └── wrf-news-snapshot.desktop  # KDE launcher (install to ~/.local/share/applications)
+└── data/                          # gitignored; per-day snapshots
+    └── <YYYY-MM-DD>/
+        ├── news_list.json               # /api/news?page=1
+        └── articles/
+            ├── <id>-<slug>.json         # full article payload
+            └── <id>-<slug>.content.html # article body HTML (readable diffs)
 ```
