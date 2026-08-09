@@ -71,31 +71,12 @@ scripts/run-snapshot.sh
 
 ### Desktop shortcut (KDE)
 
-`scripts/wrf-news-snapshot.desktop` is a ready-made launcher that runs the
-wrapper in a terminal. Install it for your user:
-
-```bash
-# Appears in the K menu / app launcher:
-cp scripts/wrf-news-snapshot.desktop ~/.local/share/applications/
-update-desktop-database ~/.local/share/applications 2>/dev/null || true
-
-# ...and/or drop a clickable copy on the desktop:
-mkdir -p ~/Desktop
-cp scripts/wrf-news-snapshot.desktop ~/Desktop/
-chmod +x ~/Desktop/wrf-news-snapshot.desktop   # KDE requires the exec bit
-```
-
-The first time you launch a desktop copy, KDE may ask you to **trust** it —
-allow it once. To edit it in the GUI instead: right-click the desktop →
-*Create New → Link to Application*, then point *Command* at
-`scripts/run-snapshot.sh` and tick *Run in terminal* under the *Application* tab.
-
-**Icon.** The launcher's `Icon=` points at `assets/icon.svg` in the repo (an
-absolute path), so KDE uses that bundled icon rather than a generic theme one.
-`Icon=` accepts either a themed name (e.g. `applications-internet`) or an
-absolute path to a `.png`/`.svg`; swap the line in the `.desktop` file to change
-it. If you move the repo, update that path (and re-copy the file). To set it via
-the GUI, use the icon button on the *General* tab of the entry's properties.
+The KDE launcher for this tool is managed centrally in **`my-system`**, not here.
+Its `.desktop` lives at `my-system/users/ethan/desktop-entries/wrf-news-snapshot.desktop`
+(created via the `/add-shortcut` skill) and is deployed to the app menu + desktop
+by `my-system/users/install.sh`. It points `Exec=` at `scripts/run-snapshot.sh`
+and `Icon=` at `assets/icon.svg` in this repo — so both stay here; only the
+launcher itself moved.
 
 ### Recommended cadence
 
@@ -108,11 +89,10 @@ captures every edit to the bumped articles in git history.
 ```
 wrf-news-research/
 ├── assets/
-│   └── icon.svg                   # launcher icon (referenced by the .desktop file)
+│   └── icon.svg                   # launcher icon (referenced by my-system's .desktop)
 ├── scripts/
 │   ├── snapshot.py                # fetch news list + N latest articles
-│   ├── run-snapshot.sh            # double-clickable wrapper (cd + run + pause)
-│   └── wrf-news-snapshot.desktop  # KDE launcher (install to ~/.local/share/applications)
+│   └── run-snapshot.sh            # double-clickable wrapper (cd + run + pause)
 └── data/                          # gitignored; per-day snapshots
     └── <YYYY-MM-DD>/
         ├── news_list.json               # /api/news?page=1
