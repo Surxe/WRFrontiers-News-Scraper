@@ -64,9 +64,6 @@ python3 scripts/snapshot.py                    # -> data/<today>/
 python3 scripts/snapshot.py --latest 5         # capture more articles
 python3 scripts/snapshot.py --date 2026-08-08  # force a specific day folder
 python3 scripts/snapshot.py --page 2           # snapshot an older list page
-
-# Or the double-clickable wrapper (keeps the terminal open at the end):
-scripts/run-snapshot.sh
 ```
 
 ### Desktop shortcut (KDE)
@@ -74,9 +71,14 @@ scripts/run-snapshot.sh
 The KDE launcher for this tool is managed centrally in **`my-system`**, not here.
 Its `.desktop` lives at `my-system/users/ethan/desktop-entries/wrf-news-snapshot.desktop`
 (created via the `/add-shortcut` skill) and is deployed to the app menu + desktop
-by `my-system/users/install.sh`. It points `Exec=` at `scripts/run-snapshot.sh`
-and `Icon=` at `assets/icon.svg` in this repo — so both stay here; only the
-launcher itself moved.
+by `my-system/users/install.sh`.
+
+For security, the launcher `Exec=` does **not** point at a script in this
+(dev-writable) repo — that would run repo code with ethan's privileges. Instead
+it runs `wrf-news-snapshot`, a thin launcher in `my-system/users/ethan/localbin/`
+that `install.sh` copies (review-gated) into ethan's `~/.local/bin`; that copy
+hops to the `dev` user and runs `scripts/snapshot.py` from here as its owner. Only
+`Icon=` (`assets/icon.svg`) is still referenced in this repo — an asset, not code.
 
 ### Recommended cadence
 
@@ -91,8 +93,7 @@ wrf-news-research/
 ├── assets/
 │   └── icon.svg                   # launcher icon (referenced by my-system's .desktop)
 ├── scripts/
-│   ├── snapshot.py                # fetch news list + N latest articles
-│   └── run-snapshot.sh            # double-clickable wrapper (cd + run + pause)
+│   └── snapshot.py                # fetch news list + N latest articles
 └── data/                          # gitignored; per-day snapshots
     └── <YYYY-MM-DD>/
         ├── news_list.json               # /api/news?page=1
