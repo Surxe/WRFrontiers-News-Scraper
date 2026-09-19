@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 110,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1712671974,
+    "title": "Spring Update: 0.14.03 Patch Notes (April 10, 2024)",
+    "summary": "Fixes for features.",
+    "url": "https://warrobotsfrontiers.com/en/news/110-spring-update-hotfix",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following patch will be made to War Robots: Frontiers (Early Access), which will be available following a short period of maintenance on <strong>April 10, 2024</strong>.&nbsp;</p>\r\n\r\n<h2>Squads</h2>\r\n\r\n<ul>\r\n\t<li>Fixed an issue that allowed friends to be invited to squads that were already full.</li>\r\n\t<li>Fixed an issue where a squad invite would take up a squad slot even after the player had already joined the squad.</li>\r\n\t<li>After being kicked out from a squad, the player&rsquo;s squad code is now updated as intended.&nbsp;</li>\r\n\t<li>The indicator for ready squad members now shows the current number of squad members, not the maximum number.</li>\r\n</ul>\r\n\r\n<h2>Robots, Titans, Weapons &amp; Abilities</h2>\r\n\r\n<ul>\r\n\t<li>Reduced prices for crafting/upgrading/selling modules of all rarities by 20%.</li>\r\n\t<li>Fixed the description of the Infinite Ammo ability.</li>\r\n\t<li>Fixed an issue with the description of Infinite Ammo, where the primary and secondary stats were mixed up.</li>\r\n\t<li>Titan: Grim&rsquo;s Ensnare ability now has a distinctive sound effect.</li>\r\n\t<li>Fixed a bug with a decrease in the armor value at level 2 of the Purifier torso upgrade.</li>\r\n\t<li>Firing animations for Scourge, Gozer, and Incinerator weapons were improved.</li>\r\n\t<li>Fixed a bug with the drones of the Titan Matriarch Missile Defense ability not being visible to the player that activated the ability.</li>\r\n\t<li>Titan abilities and parts now correctly display the associated play style description tags.</li>\r\n</ul>\r\n\r\n<h2>Customizations</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where decals were not shown on Purifier Robot modules.</li>\r\n\t<li>Customization no longer disappears when using the Trick, Blink, Teleport, and Stealth abilities.</li>\r\n\t<li>Decal placement is no longer reset when switching between parts or selecting another decal.</li>\r\n\t<li>3D icons for materials, weathering, and skins on the reward screen are now of appropriate size.</li>\r\n</ul>\r\n\r\n<h2>Pilots&nbsp;</h2>\r\n\r\n<ul>\r\n\t<li>Pilot reactions audio is now enabled by default in the game settings.</li>\r\n\t<li>The background camera of the Pilot&rsquo;s profession screen can no longer be rotated.</li>\r\n\t<li>Fixed an issue that caused audio static to play when capturing a beacon using a legendary Pilot.</li>\r\n</ul>\r\n\r\n<h2>Maps</h2>\r\n\r\n<ul>\r\n\t<li>Fixed an issue with Robots spawning in inappropriate places on the Spectrum map in Team Deathmatch mode.</li>\r\n\t<li>Lava on Catalyst no longer deals infinite damage.</li>\r\n</ul>\r\n\r\n<h2>UI Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Fixed an issue where the brightness of the game&rsquo;s logo did not change on the brightness setting screen during the first launch of the client.</li>\r\n\t<li>The Battle Pass tutorial tips now all display correctly.&nbsp;</li>\r\n\t<li>Offers can now be purchased using the quick purchase option.</li>\r\n\t<li>Post-match statistics no longer incorrectly duplicate players&#39; names.</li>\r\n\t<li>Friends invited from other platforms now appear in the Friend List as soon as they are added.</li>\r\n</ul>\r\n\r\n<h2>Technical Fixes</h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Additional optimization added to improve performance on lower-end PC specifications.</p>\r\n\t</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/110-spring-update-hotfix",
+      "de": "https://warrobotsfrontiers.com/de/news/110-spring-update-hotfix",
+      "en": "https://warrobotsfrontiers.com/en/news/110-spring-update-hotfix",
+      "es": "https://warrobotsfrontiers.com/es/news/110-spring-update-hotfix",
+      "fr": "https://warrobotsfrontiers.com/fr/news/110-spring-update-hotfix",
+      "jp": "https://warrobotsfrontiers.com/jp/news/110-spring-update-hotfix",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/110-spring-update-hotfix",
+      "tr": "https://warrobotsfrontiers.com/tr/news/110-spring-update-hotfix",
+      "tw": "https://warrobotsfrontiers.com/tw/news/110-spring-update-hotfix"
+    }
+  }
+}

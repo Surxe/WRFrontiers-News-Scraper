@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 193,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1743433200,
+    "title": "Hotfix Patch Notes — April 3, 2025",
+    "summary": "Showering you with April adjustments.",
+    "url": "https://warrobotsfrontiers.com/en/news/193-hotfix-patch-notes-april-2-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — April 3, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> April 3, 2025.</strong></p>\r\n\r\n<h2>Game Adjustments</h2>\r\n\r\n<h3>Store</h3>\r\n\r\n<ul>\r\n\t<li>As mentioned in our latest <a href=\"https://warrobotsfrontiers.com/news/190\">Developer Update</a>, we will be adding Customization Content to the store regularly for WarpReals. Items on sale are not exclusive and may appear again in the future.</li>\r\n\t<li>We are adding Kate Sinclair to the Store for 12,000 Credits, players can purchase a maximum of 1 Hero Pilot per periodic rotation. As mentioned in our latest <a href=\"https://warrobotsfrontiers.com/news/190\">Developer Update</a>, in a future update we will also be adding Kate Sinclair along with other Hero Pilots to the Common Pilot rotation at a cost of 8,000 Credits.</li>\r\n\t<li>We are adding the Griffin War Robot to the Store for 16,000 Credits, players can purchase a maximum of 1 War Robot per periodic rotation.</li>\r\n</ul>\r\n\r\n<h2>General Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Improved the visual clarity by adding an orange arrow on Modules that can be upgraded in the &ldquo;Tuning&rdquo; and &ldquo;Building&rdquo; interfaces.</li>\r\n\t<li>Added a visual cue in the Main Menu which showcases the Mute function.</li>\r\n\t<li>Added a new &ldquo;Customization&rdquo; tab in the Store to easily find Customization content.</li>\r\n\t<li>Added a visualisation to showcase the maximum number of Levels available to be acquired in the current Battle Pass.</li>\r\n\t<li>Improved the visual clarity when selecting a War Robot on the War Robot Selection Screen when entering a match.</li>\r\n</ul>\r\n\r\n<h2>Technical Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Applied some adjustments to improve stability and performance.</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where Aim Assist and Controller Settings would remain active when changing from a Gamepad to Mouse and Keyboard.</li>\r\n\t<li>Fixed a bug where the camera shake (triggered by Flashbang) would be cancelled by the recoil effect.</li>\r\n\t<li>Fixed a bug where players could get awarded for the same quest twice under specific circumstances.</li>\r\n\t<li>Fixed a bug where Premium Jobs could remain locked when a player has Premium Account.</li>\r\n\t<li>Fixed a bug where weekly quests were updating less often than once per week.</li>\r\n\t<li>Fixed a bug where some parameters related to Impact Points would not be counted in the final Impact Points for a match.</li>\r\n\t<li>Fixed a bug where Noricum (Weapon) would not aim at the enemy when using the &ldquo;Strong&rdquo; Aim Assistance setting.</li>\r\n</ul>\r\n\r\n<p>Follow the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest hotfix info.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/193-hotfix-patch-notes-april-2-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/193-hotfix-patch-notes-april-2-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/193-hotfix-patch-notes-april-2-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/193-hotfix-patch-notes-april-2-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/193-hotfix-patch-notes-april-2-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/193-hotfix-patch-notes-april-2-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/193-hotfix-patch-notes-april-2-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/193-hotfix-patch-notes-april-2-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/193-hotfix-patch-notes-april-2-2025"
+    }
+  }
+}

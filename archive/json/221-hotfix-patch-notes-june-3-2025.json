@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 221,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1748872860,
+    "title": "Hotfix Patch Notes — June 3, 2025",
+    "summary": "Hot new adjustments in time for summer.",
+    "url": "https://warrobotsfrontiers.com/en/news/221-hotfix-patch-notes-june-3-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — June 3, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> June 3, 2025.</strong></p>\r\n\r\n<h2>General Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Launched a new Intel event.\r\n\t<ul>\r\n\t\t<li>Intel from Daily Jobs is increased by 50%.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<h2>Technical Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Fixed various issues that led to crashes on PS4, PS5, and Xbox consoles.</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where the buttons &ldquo;Play&rdquo; and &ldquo;Social&rdquo; for some new players on Xbox would become unresponsive.</li>\r\n</ul>\r\n\r\n<p>Follow the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest hotfix info.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/221-hotfix-patch-notes-june-3-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/221-hotfix-patch-notes-june-3-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/221-hotfix-patch-notes-june-3-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/221-hotfix-patch-notes-june-3-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/221-hotfix-patch-notes-june-3-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/221-hotfix-patch-notes-june-3-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/221-hotfix-patch-notes-june-3-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/221-hotfix-patch-notes-june-3-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/221-hotfix-patch-notes-june-3-2025"
+    }
+  }
+}

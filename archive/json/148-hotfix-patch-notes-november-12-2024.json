@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 148,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1731337200,
+    "title": "Hotfix: Patch Notes (November 12, 2024)",
+    "summary": "New for November!",
+    "url": "https://warrobotsfrontiers.com/en/news/148-hotfix-patch-notes-november-12-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers and available following a short period of maintenance on November 12, 2024.&nbsp;</p>\r\n\r\n<h2>General Fixes &amp; Improvements</h2>\r\n\r\n<ul>\r\n\t<li>The second Tutorial match has been removed. Players now need to complete<strong> three instead of four</strong> Tutorial matches.\r\n\r\n\t<ul>\r\n\t\t<li>Player progression has been adjusted accordingly. Players will now reach Level 4 after completing all three tutorial matches.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>The win conditions for the first Tutorial match have been adjusted. Players now need only half the points to achieve victory.</li>\r\n\t<li>Improved performance for fire-based Abilities and Weapons such as Harpy&rsquo;s &ldquo;Firestorm&rdquo; and both Weapons &ldquo;Lighter&rdquo; and &ldquo;Incinerator&rdquo;, increasing the game&rsquo;s performance.</li>\r\n\t<li>When using &ldquo;Cloaking Drive&rdquo;, visual effects from other Abilities are no longer visible on the Robot.</li>\r\n\t<li>The Pilot Talent &ldquo;Fortified Shields&rdquo; has been renamed and reworked.<br />\r\n\tIts new name is &ldquo;Boosted Shields&rdquo;.\r\n\t<ul>\r\n\t\t<li>When using a Defensive Ability, the shield deployment is 25% faster for 5 seconds.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where the &ldquo;Overwrite Current&rdquo; button was always disabled when making changes to a Robot Build.</li>\r\n\t<li>Fixed a bug where the projectile speed for &ldquo;Flashbang&rdquo; was too slow.</li>\r\n\t<li>Fixed a bug where the rays from the weapon &ldquo;Gozer&rdquo; were not visible when being shot from behind.</li>\r\n\t<li>Fixed localization issues with the subtitles of the Pilot Marcus.</li>\r\n\t<li>Fixed a bug where the Pilot Talent &ldquo;Gear Guard&rdquo; would activate, even when some Abilities were not on cooldown.</li>\r\n\t<li>Fixed a bug where the Pilot Talent &ldquo;Aggressive Negotiations&rdquo; was constantly active. The Talent now only activates after meeting the corresponding trigger: Increases Shield Durability by 20% for every 200,000 damage you deal.</li>\r\n\t<li>Fixed a bug with the ability &ldquo;Fuel Thief&rdquo;. When active, it now takes 0.12 units of Fuel per second instead of 0.5 units.</li>\r\n\t<li>Fixed a bug with the ability &ldquo;Homing Missile&rdquo; that could cause them to become unusable when used alongside &ldquo;Repair Drone&rdquo;.</li>\r\n\t<li>Fixed a bug where the projectiles of the weapon &ldquo;Halo&rdquo; would register hits, but could not be seen.</li>\r\n\t<li>Fixed a bug where the Pilot Talent &quot;Intrepid Pilot&rdquo; would provide a higher damage bonus than intended. It now provides the intended 6% increased damage.</li>\r\n\t<li>Fixed a bug where projectiles of the ability &ldquo;Echo Burst&rdquo; would deal more damage in the center of the explosion. Damage is now equal within the whole explosion radius.</li>\r\n\t<li>Fixed a bug where Robots could sometimes spawn inside walls on the map &ldquo;Fissure&rdquo;.</li>\r\n</ul>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://warrobotsfrontiers.com/subscribe\"><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Newsletter%20Buttons/en.png\" /></a></p>\r\n\r\n<p>Get more of the latest news like this by following the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> (<a href=\"https://twitter.com/WRFrontiers\">Twitter</a>) and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and joining the <a href=\"http://link\">official Discord server</a>.&nbsp;</p>\r\n\r\n<p>You can also wishlist and follow War Robots: Frontiers on <a href=\"https://store.steampowered.com/app/1491000\">Steam</a> to get the latest updates there.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/148-hotfix-patch-notes-november-12-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/148-hotfix-patch-notes-november-12-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/148-hotfix-patch-notes-november-12-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/148-hotfix-patch-notes-november-12-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/148-hotfix-patch-notes-november-12-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/148-hotfix-patch-notes-november-12-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/148-hotfix-patch-notes-november-12-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/148-hotfix-patch-notes-november-12-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/148-hotfix-patch-notes-november-12-2024"
+    }
+  }
+}

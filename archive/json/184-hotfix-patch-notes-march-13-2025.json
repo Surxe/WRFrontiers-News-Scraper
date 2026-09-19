@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 184,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1741802340,
+    "title": "Hotfix Patch Notes — March 13, 2025",
+    "summary": "March into battle with new fixes.",
+    "url": "https://warrobotsfrontiers.com/en/news/184-hotfix-patch-notes-march-13-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — March 13, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> March 13, 2025.</strong></p>\r\n\r\n<h2>Game Adjustments</h2>\r\n\r\n<h3>Progression</h3>\r\n\r\n<ul>\r\n\t<li>Increased the amount of Credits, Experience, and Pilot Experience awarded per match. On average, the amount gained has increased by +50%.</li>\r\n</ul>\r\n\r\n<p><strong>Developer Note</strong>: We received feedback from players that progression felt too slow. After reviewing the data, we agree and have made the above changes to improve how progression feels.</p>\r\n\r\n<h3>Game Modes</h3>\r\n\r\n<ul>\r\n\t<li><strong>Last Robot Standing &amp; Team Deathmatch:</strong> Increased the outgoing damage by 50% for 10 seconds after spawning.</li>\r\n\t<li><strong>Team Deathmatch:</strong> Reduced the respawn cooldown from 270s to 150s.</li>\r\n\t<li><strong>Warp Rush:</strong> Reduced the incoming damage by 40% for 10 seconds after spawning.</li>\r\n</ul>\r\n\r\n<h3>Miscellaneous</h3>\r\n\r\n<ul>\r\n\t<li>Added further clarification for Hero Pilot Talents in-game:\r\n\t<ul>\r\n\t\t<li>1 Talent is available per rank.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<h3>General</h3>\r\n\r\n<ul>\r\n\t<li><strong>Maps:</strong> Fixed a bug where pipes were no longer displayed after a certain distance on Fissure.</li>\r\n\t<li><strong>Maps:</strong> Fixed a bug that allowed players to get on top of the central wall on Terminus.</li>\r\n\t<li><strong>Achievement/Trophy:</strong> Fixed a bug where players were unable to progress through the requirements for the Achievement/Trophy &ldquo;Me and My Crew&rdquo;. Players need to win 100 battles while being part of a Crew.</li>\r\n</ul>\r\n\r\n<h3>Weapons &amp; Gear</h3>\r\n\r\n<ul>\r\n\t<li><strong>Orochi &mdash; Echo Barrage (Core Gear)</strong>: Fixed an issue where the silhouettes of War Robots highlighted by Recon Mode (Cycle Gear) would disappear when using Orochi&rsquo;s Core Gear and Recon Mode back-to-back.</li>\r\n\t<li><strong>Raven &mdash; Steel Feathers (Core Gear):</strong> Fixed a bug where Steel Feathers would fire only 2 projectiles instead of the intended 8.</li>\r\n\t<li><strong>Tusk:</strong> Fixed a bug where the weapon&rsquo;s projectiles did not have bullet drop.</li>\r\n</ul>\r\n\r\n<h3>Workshop</h3>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where players were unable to create a new War Robot Build when a selected Pilot was already assigned to another War Robot Build. These now display as in-use if the Pilot is utilized in another War Robot Build. Players are now provided with copies of &ldquo;not owned&rdquo; Pilots in the Workshop to assign to their Builds.</li>\r\n</ul>\r\n\r\n<h2>Technical Fixes</h2>\r\n\r\n<h3>General Technical Issues</h3>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where players received an &ldquo;Item transfer failed&rdquo; warning in the <a href=\"https://warrobotsfrontiers.com/inventory\">Inventory</a> when sending multiple Premium Account days, resulting in its loss. All players affected by this will have the correct Premium Account days returned to their <a href=\"https://warrobotsfrontiers.com/inventory\">Inventory</a>.</li>\r\n\t<li>Fixed unusual Spawn VFX when the upscaling modes &ldquo;DLSS&rdquo;, &ldquo;FSR3&rdquo;, or &ldquo;FSR1&rdquo; were active.</li>\r\n\t<li>Added missing localization for Quick Repair (Supply Gear) and Nanite Repair (Cycle Gear).</li>\r\n\t<li>Fixed a bug where players with Premium Account did not receive additional Jobs and were unable to replace additional Jobs.</li>\r\n</ul>\r\n\r\n<h3>Crashes</h3>\r\n\r\n<ul>\r\n\t<li>Improved stability on PlayStation 4.</li>\r\n\t<li>Fixed a crash that could occur before spawning into a match.</li>\r\n\t<li>Fixed a crash that could occur when switching graphic presets from Medium to Low.</li>\r\n</ul>\r\n\r\n<p style=\"text-align:center\"><strong><a href=\"https://warrobotsfrontiers.com/subscribe\"><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Newsletter%20Buttons/Updated/EN.png\" /></a></strong></p>\r\n\r\n<p>Get more of the latest news like this by following the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and joining the <a href=\"http://link\">official Discord server</a>.&nbsp;</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/184-hotfix-patch-notes-march-13-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/184-hotfix-patch-notes-march-13-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/184-hotfix-patch-notes-march-13-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/184-hotfix-patch-notes-march-13-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/184-hotfix-patch-notes-march-13-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/184-hotfix-patch-notes-march-13-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/184-hotfix-patch-notes-march-13-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/184-hotfix-patch-notes-march-13-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/184-hotfix-patch-notes-march-13-2025"
+    }
+  }
+}

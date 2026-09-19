@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": 90,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1700812800,
+    "title": "Hotfix 0.13.0 Patch Notes (November 24, 2023)",
+    "summary": "This small update includes some important bug fixes, as well as minor tweaks to balance and economy.",
+    "url": "https://warrobotsfrontiers.com/en/news/90-hotfix-0-13-0-patch-notes-november-24-2023",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/11/90_hotfix/patchnotes_large.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/11/90_hotfix/patchnotes_large.jpg",
+    "meta_title": "Hotfix 0.13.0 Patch Notes (November 24, 2023)",
+    "meta_description": "Improvements and changes for the War Robots: Frontiers: Autumn Update.",
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These patch notes detail changes for the War Robots: Frontiers build available after maintenance on November 24, 2023.</p>\r\n\r\n<h2>ECONOMY CHANGES</h2>\r\n\r\n<p>We are making Alloys more readily available to players at all levels. We are also redistributing Alloy income between scrapping them from items and purchasing them directly in Shop so both sources provide roughly the same amount of currency:</p>\r\n\r\n<ul>\r\n\t<li>Scrapping an item now yields 80% of the initial item cost in Alloys (instead of 30%).</li>\r\n\t<li>Account progression rewards now include Alloys at levels 7, 8, 9, 11, 13, 15, and 17.</li>\r\n\t<li>Cell 6 in Daily Deal will now only contain Alloys. Some bundles from Cell 6 will now contain fewer Alloys at the same price (75k &rarr; 50k for 625 Credits, and 150k &rarr; 125k for 1,250 Credits).</li>\r\n</ul>\r\n\r\n<p>As a result, the total amount of Alloys will increase, while daily and weekly contracts will remain the main source of Credit income.</p>\r\n\r\n<h2>BALANCE CHANGES</h2>\r\n\r\n<ul>\r\n\t<li>Increased reload time on Vortex (8.5 seconds at maximum level).</li>\r\n\t<li>Added energy shields to Titans.</li>\r\n</ul>\r\n\r\n<h2>BUGS FIXED</h2>\r\n\r\n<ul>\r\n\t<li><strong>Fenrir (Torso):</strong> The Unchained Ability now correctly deducts 20% durability from all Robot Parts when activated and proceeds to restore durability equal to 100% of the damage dealt. The restored durability is distributed evenly among all Robot Parts. If all parts are fully repaired, the Ability will charge the Robot&rsquo;s energy shield instead.</li>\r\n\t<li><strong>Fenrir (Torso): </strong>Resolved incorrect walking animations on Fenrir when gaining speed while the Unchained Ability is active.</li>\r\n\t<li><strong>Ares (Torso):</strong> Resolved Retribution shield displaying incorrectly when looking from a distance.</li>\r\n\t<li>Resolved issue where certain areas on various Robot chassis would not take any damage.</li>\r\n\t<li>Resolved Vortex seizing fire when using Instant Reload.</li>\r\n\t<li>Resolved the issue that prevented Pilots from being selected repeatedly in the Inventory.</li>\r\n\t<li>Resolved issues where Robot Parts and Ability Modules would not be selected with the first click in the Inventory and Constructor menus.</li>\r\n\t<li>Resolved incorrect announcements for Titan charge in Elimination and Team Deathmatch Modes.</li>\r\n\t<li>Resolved visual issues on Alpha&rsquo;s main weapon when heavily damaged.</li>\r\n\t<li>Resolved an issue that prevented randomly-generated build names from being saved in presets.</li>\r\n\t<li>Resolved Supply Line promotion displaying incorrectly after a match.</li>\r\n\t<li>Resolved an issue that prevented quitting matchmaking by pressing ESC.</li>\r\n\t<li>Resolved an issue that allowed the camera to move outside the map.</li>\r\n\t<li>Resolved Speed Boost affecting Robot movement speed incorrectly.</li>\r\n\t<li>Resolved various localization issues.</li>\r\n</ul>\r\n\r\n<h2>OTHER IMPROVEMENTS</h2>\r\n\r\n<ul>\r\n\t<li>Improved stability of the game client.</li>\r\n\t<li>Added Ability descriptions to Grim&rsquo;s F1 tooltip.</li>\r\n\t<li>Added voice prompts to Robots&rsquo; energy shield capacity levels and durability status.</li>\r\n\t<li>Added confirmation for resetting Pilot Skills.</li>\r\n\t<li>Autodetect Setting will now turn on Upscaling (DLSS, FSR 2) if no other Upscaling settings were previously saved and if the player&rsquo;s screen resolution is 1920&times;1080p or higher.</li>\r\n\t<li>Updated the weapon icon on Alpha.</li>\r\n</ul>",
+    "alternates": {
+      "en": "https://warrobotsfrontiers.com/en/news/90-hotfix-0-13-0-patch-notes-november-24-2023",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/90-hotfix-0-13-0-patch-notes-november-24-2023"
+    }
+  }
+}

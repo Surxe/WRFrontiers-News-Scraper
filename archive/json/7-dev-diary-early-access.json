@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": 7,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1669118400,
+    "title": "Dev Diary: Early Access",
+    "summary": "Jump into War Robots: Frontiers ahead of time with Early Access!",
+    "url": "https://warrobotsfrontiers.com/en/news/7-dev-diary-early-access",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/7/News Assets_1150x645.png",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/7/News Assets_1150x645.png",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Get a sneak peek at the development of War Robots: Frontiers in Early Access.&nbsp;</p>\r\n\r\n<p>This video will give you a behind-the-scenes look from Zukata, the Creative Director of War Robots: Frontiers. Check out the roadmap for the months ahead, learn about Pioneer Packs and all the rewards you can claim, and even more from the world of War Robots: Frontiers in Early Access!</p>\r\n\r\n<div class=\"embeddedContent oembed-provider-youtube\" data-align=\"center\" data-oembed=\"https://www.youtube.com/watch?v=1wWL3fGLbYI\" data-oembed_provider=\"youtube\" data-resizetype=\"noresize\" style=\"text-align:center\"><iframe allowfullscreen=\"true\" allowscriptaccess=\"always\" frameborder=\"0\" scrolling=\"no\" src=\"//www.youtube.com/embed/1wWL3fGLbYI?wmode=transparent&amp;jqoemcache=PrNdp\"></iframe></div>\r\n\r\n<p>Subscribe to our <a href=\"https://www.youtube.com/channel/UC7xxqQkPAQ7x6wIVEPZus5w\">YouTube channel</a> and stay tuned for more War Robots: Frontiers videos!</p>",
+    "alternates": {
+      "de": "https://warrobotsfrontiers.com/de/news/7-dev-diary-early-access",
+      "en": "https://warrobotsfrontiers.com/en/news/7-dev-diary-early-access",
+      "es": "https://warrobotsfrontiers.com/es/news/7-dev-diary-early-access",
+      "fr": "https://warrobotsfrontiers.com/fr/news/7-dev-diary-early-access",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/7-dev-diary-early-access",
+      "tr": "https://warrobotsfrontiers.com/tr/news/7-dev-diary-early-access"
+    }
+  }
+}

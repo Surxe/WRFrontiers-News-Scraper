@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 132,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1723644000,
+    "title": "Hotfix: Patch Notes (August 15, 2024)",
+    "summary": "Fun with fixes!",
+    "url": "https://warrobotsfrontiers.com/en/news/132-hotfix-patch-notes-august-15-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers and available following a short period of maintenance on August 15, 2024.&nbsp;</p>\r\n\r\n<h2>General Fixes &amp; Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Improved game client stability.\r\n\t<ul>\r\n\t\t<li>Fixed various crashes and errors.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where players could pass through specific walls on the Catalyst map.</li>\r\n\t<li>Fixed a bug where Grim&rsquo;s ability &ldquo;Snare&rdquo; could not be placed on walls.</li>\r\n</ul>\r\n\r\n<p>Subscribe to the <a href=\"https://wrfrontiers.com/subscribe\">official newsletter</a> to get more of the latest news like this straight to your inbox, follow the game on <a href=\"https://twitter.com/WRFrontiers\">Twitter</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a>, and join the <a href=\"http://wr.app/FrontiersDiscord\">official Discord server</a>. You can also wishlist and follow War Robots: Frontiers on <a href=\"https://store.steampowered.com/app/1491000\">Steam</a> to get the latest news there.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/132-hotfix-patch-notes-august-15-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/132-hotfix-patch-notes-august-15-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/132-hotfix-patch-notes-august-15-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/132-hotfix-patch-notes-august-15-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/132-hotfix-patch-notes-august-15-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/132-hotfix-patch-notes-august-15-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/132-hotfix-patch-notes-august-15-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/132-hotfix-patch-notes-august-15-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/132-hotfix-patch-notes-august-15-2024"
+    }
+  }
+}

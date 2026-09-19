@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 107,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1711443600,
+    "title": "Scheduled Downtime on MY.GAMES Titles & Services (Mar 26, 2024)",
+    "summary": "We need to look under the hood — you may experience some mild disruption.",
+    "url": "https://warrobotsfrontiers.com/en/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/03/107-MGDowntime/WRF_1150x645.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/03/107-MGDowntime/WRF_1150x645.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Due to necessary maintenance work required across all MY.GAMES titles, platforms, and services, a short period of scheduled downtime will occur on <strong>March 26</strong><strong>, 2024 (23:59 CET / 22:59 GMT / </strong><strong>15</strong><strong>:59 PT / </strong><strong>18</strong><strong>:59 ET)</strong>. It will last for approximately <strong>2&ndash;</strong><strong>3 hours</strong>.</p>\r\n\r\n<p>The maintenance will be carried out in several stages, during which time the following may be impacted or unavailable:</p>\r\n\r\n<ul>\r\n\t<li>Game server availability</li>\r\n\t<li>Gameplay</li>\r\n\t<li>Authorization, registration, and login</li>\r\n\t<li>Payments</li>\r\n\t<li>Access to titles on MY.GAMES Launcher, Steam, Epic Games Store, and other platforms that host MY.GAMES titles</li>\r\n\t<li>Newsletters and emails from MY.GAMES</li>\r\n</ul>\r\n\r\n<p>If you still need help or have any issues after maintenance has been completed, please contact <a href=\"https://support.my.games/\">MY.GAMES Support</a>.</p>\r\n\r\n<p>Thank you for your patience. We&rsquo;ll get you back in the game in no time!</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/107-scheduled-downtime-on-my-games-titles-services-mar-26-2024"
+    }
+  }
+}

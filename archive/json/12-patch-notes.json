@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": 12,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1669885200,
+    "title": "War Robots: Frontiers Patch Notes - 01/12/2022",
+    "summary": "Check out the latest updates!",
+    "url": "https://warrobotsfrontiers.com/en/news/12-patch-notes",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These are the patch notes for the build available on<strong> December 1</strong>. Update your game to the latest version and play War Robots: Frontiers today!</p>\r\n\r\n<ul>\r\n\t<li>The damage of the following abilities has been decreased:&nbsp;\r\n\t<ul>\r\n\t\t<li>&quot;Rainfall&quot; (Bulgasari)</li>\r\n\t\t<li>&quot;Deadlight&quot; (Alpha)</li>\r\n\t\t<li>&quot;Homing Pack&quot; (Alpha)</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Homing of the weapon &quot;Scourge&quot; has been disabled. The damage decay curve has been adjusted.</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>The damage, reload speed and ammo capacity of some weapons has been adjusted.</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>The instant heal volume provided by the &quot;Scrapper: Armor&quot; talent of &quot;Kang Strong&quot; Pilot has decreased from 20% to 10% per kill.</li>\r\n\t<li>The armor, health, and speed of some Robots&rsquo; parts have been adjusted.</li>\r\n\t<li>The Shop option &quot;Skip Box&quot; will now consume 200,000 Alloys instead of 1,000 Credits.</li>\r\n\t<li>The Robot abilities are now locked in &quot;Tutorial Mission&quot; until the player approaches the Beacon arena.</li>\r\n\t<li>&quot;Low Fuel&quot; indication is now displayed when trying to use &quot;Dash&quot; or &quot;Floating Jetpack&quot; with insufficient fuel.</li>\r\n\t<li>Minor localization fixes have been implemented.</li>\r\n</ul>",
+    "alternates": {
+      "de": "https://warrobotsfrontiers.com/de/news/12-patch-notes",
+      "en": "https://warrobotsfrontiers.com/en/news/12-patch-notes",
+      "es": "https://warrobotsfrontiers.com/es/news/12-patch-notes",
+      "fr": "https://warrobotsfrontiers.com/fr/news/12-patch-notes",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/12-patch-notes",
+      "tr": "https://warrobotsfrontiers.com/tr/news/12-patch-notes"
+    }
+  }
+}

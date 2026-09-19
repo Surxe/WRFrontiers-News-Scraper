@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 253,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1753889400,
+    "title": "Hotfix Patch Notes — July 31, 2025",
+    "summary": "Hot summer changes.",
+    "url": "https://warrobotsfrontiers.com/en/news/253-hotfix-patch-notes-july-31-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — July 31, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> July 31, 2025.</strong></p>\r\n\r\n<h2>Battle Pass Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Players working through the Free Battle Pass can now earn enough Tokens to access all 4 Shipments of the Spark of Ingenuity Battle Pass, with some items still locked for Battle Pass Gold players.</li>\r\n</ul>\r\n\r\n<h2>Gameplay Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Matchmaking now prioritizes Crews of 4 or more to only be able to play with other Crews of the same size. This change is to protect solo-queue players from playing against full organised groups, and allows organised groups to match together easier.</li>\r\n\t<li>Maximum matchmaking time for Crews consisting of 4 or more players has been changed to 5 minutes.</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>To correctly allow all players to unlock Shipment 4, some Shipment 3 items have been moved from Battle Pass Gold to the Free Battle Pass.</li>\r\n\t<li>Fixed several crash related issues on PlayStation&reg;5.</li>\r\n\t<li>Fixed a bug where &lsquo;Homing Missile&rsquo; would deal more damage than intended.</li>\r\n\t<li>Fixed a bug where the system would attempt to sell the last highlighted item in the Warehouse instead of the selected item.</li>\r\n\t<li>Fixed a bug where the Premium Account Status could not be activated while in the &lsquo;Now Unlocking&rsquo; page.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p>Follow the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest hotfix info.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/253-hotfix-patch-notes-july-31-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/253-hotfix-patch-notes-july-31-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/253-hotfix-patch-notes-july-31-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/253-hotfix-patch-notes-july-31-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/253-hotfix-patch-notes-july-31-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/253-hotfix-patch-notes-july-31-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/253-hotfix-patch-notes-july-31-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/253-hotfix-patch-notes-july-31-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/253-hotfix-patch-notes-july-31-2025"
+    }
+  }
+}

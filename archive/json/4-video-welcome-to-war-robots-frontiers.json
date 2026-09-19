@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": 4,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1668070560,
+    "title": "Video: Welcome to War Robots: Frontiers",
+    "summary": "A sneak peek into the future of War Robots!",
+    "url": "https://warrobotsfrontiers.com/en/news/4-video-welcome-to-war-robots-frontiers",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/4/News_1150x645.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/4/News_1150x645.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Get a behind-the-scenes look at the development of War Robots: Frontiers in this announcement trailer!&nbsp;</p>\r\n\r\n<p>This video will give you the lowdown on Frontiers straight from Zukata, the game&rsquo;s Creative Director. Learn about the game mechanics, how to customize your Robot to fit your playstyle, tactically use your environment, and lots more you&rsquo;ll need to know before you jump into War Robots: Frontiers!</p>\r\n\r\n<div class=\"embeddedContent oembed-provider-youtube\" data-align=\"center\" data-oembed=\"https://www.youtube.com/watch?v=66ra_r9lbuU\" data-oembed_provider=\"youtube\" data-resizetype=\"noresize\" style=\"text-align:center\"><iframe allowfullscreen=\"true\" allowscriptaccess=\"always\" frameborder=\"0\" scrolling=\"no\" src=\"//www.youtube.com/embed/66ra_r9lbuU?wmode=transparent&amp;jqoemcache=Fiti5\"></iframe></div>\r\n\r\n<p><br />\r\nSubscribe to our <a href=\"https://www.youtube.com/channel/UC7xxqQkPAQ7x6wIVEPZus5w\">YouTube channel</a> and stay tuned for more War Robots: Frontiers videos!</p>",
+    "alternates": {
+      "de": "https://warrobotsfrontiers.com/de/news/4-video-welcome-to-war-robots-frontiers",
+      "en": "https://warrobotsfrontiers.com/en/news/4-video-welcome-to-war-robots-frontiers",
+      "es": "https://warrobotsfrontiers.com/es/news/4-video-welcome-to-war-robots-frontiers",
+      "fr": "https://warrobotsfrontiers.com/fr/news/4-video-welcome-to-war-robots-frontiers",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/4-video-welcome-to-war-robots-frontiers",
+      "tr": "https://warrobotsfrontiers.com/tr/news/4-video-welcome-to-war-robots-frontiers"
+    }
+  }
+}

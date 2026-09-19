@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 152,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1732615200,
+    "title": "Test Event: Help Us Improve Crash Rates",
+    "summary": "See it, say it, sorted.",
+    "url": "https://warrobotsfrontiers.com/en/news/152-test-event-help-us-improve-crash-rates",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/11/152-CrashTest/Web News Asset.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/11/152-CrashTest/Web News Asset.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Heads up, Pilots! From <strong>November 26 to December 4, </strong>we will be closely monitoring the performance of War Robots: Frontiers (Early Access), and we need your help. <strong>If you experience a crash, please report it to our </strong><a href=\"https://support.my.games/wrf_int\"><strong>Support team</strong></a><strong> or send the auto-crash report (WRFrontiers Crash Reporter)</strong> so we can continue to improve the game and make your battles truly rage.&nbsp;</p>\r\n\r\n<p>As a thank you, when you <strong>play 10 Battles from November 26 to December 4 you&#39;ll be rewarded with 3,000 Credits!&nbsp;</strong></p>\r\n\r\n<p>Stay tuned to <a href=\"https://twitter.com/WRFrontiers\">X</a>/<a href=\"https://twitter.com/WRFrontiers\">Twitter</a>, <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a>, and the <a href=\"https://wrfrontiers.com/l/discord\">official Discord server</a> for more updates.&nbsp;</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/152-test-event-help-us-improve-crash-rates",
+      "de": "https://warrobotsfrontiers.com/de/news/152-test-event-help-us-improve-crash-rates",
+      "en": "https://warrobotsfrontiers.com/en/news/152-test-event-help-us-improve-crash-rates",
+      "es": "https://warrobotsfrontiers.com/es/news/152-test-event-help-us-improve-crash-rates",
+      "fr": "https://warrobotsfrontiers.com/fr/news/152-test-event-help-us-improve-crash-rates",
+      "jp": "https://warrobotsfrontiers.com/jp/news/152-test-event-help-us-improve-crash-rates",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/152-test-event-help-us-improve-crash-rates",
+      "tr": "https://warrobotsfrontiers.com/tr/news/152-test-event-help-us-improve-crash-rates",
+      "tw": "https://warrobotsfrontiers.com/tw/news/152-test-event-help-us-improve-crash-rates"
+    }
+  }
+}

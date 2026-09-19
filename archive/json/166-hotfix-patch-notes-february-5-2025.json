@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 166,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1738681200,
+    "title": "Hotfix: Patch Notes (February 5, 2025)",
+    "summary": "Leap into February fixes.",
+    "url": "https://warrobotsfrontiers.com/en/news/166-hotfix-patch-notes-february-5-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": "Hotfix: Patch Notes (February 5, 2025)",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> February </strong><strong>5</strong><strong>, 2024.&nbsp;</strong></p>\r\n\r\n<h2>General Fixes &amp; Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Improved overall game client stability.</li>\r\n\t<li>Robot names now properly truncate if they extend beyond UI boundaries.</li>\r\n\t<li>Fixed an issue where the button for the fifth weapon slot in the &lsquo;Apply to Other Modules&rsquo; menu may have been displayed beyond the boundaries of the UI element. The button is now properly nested inside the element.</li>\r\n\t<li>Added GPU Debug Mode option to Graphics Settings.</li>\r\n\t<li><strong>Titan Matriarch Hive Weapons</strong>: Corrected ATK at max level from 12057 to 1206 (visual display error only; actual in-game damage remains unchanged).</li>\r\n\t<li>Improved Workshop sound effects for a more immersive experience.</li>\r\n\t<li>Optimized Lighter&rsquo;s visual effects to improve frame rate when firing.</li>\r\n\t<li>Various localization fixes and updates.</li>\r\n</ul>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://wrfrontiers.com/subscribe\"><strong><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Newsletter%20Buttons/Updated/EN.png\" /></strong></a><br />\r\n&nbsp;</p>\r\n\r\n<p>Get more of the latest news like this by following the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> (<a href=\"https://twitter.com/WRFrontiers\">Twitter</a>) and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and joining the <a href=\"http://link\">official Discord server</a>.&nbsp;</p>\r\n\r\n<p>You can also wishlist and follow War Robots: Frontiers on <a href=\"https://store.steampowered.com/app/1491000\">Steam</a> to get the latest updates there.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/166-hotfix-patch-notes-february-5-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/166-hotfix-patch-notes-february-5-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/166-hotfix-patch-notes-february-5-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/166-hotfix-patch-notes-february-5-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/166-hotfix-patch-notes-february-5-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/166-hotfix-patch-notes-february-5-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/166-hotfix-patch-notes-february-5-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/166-hotfix-patch-notes-february-5-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/166-hotfix-patch-notes-february-5-2025"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 260,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1755525600,
+    "title": "Patch Notes — August 19, 2025",
+    "summary": "August augmentations.",
+    "url": "https://warrobotsfrontiers.com/en/news/260-patch-notes-august-19-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Patch Notes — August 19, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following <strong>patch </strong>will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> August 19, 2025.</strong></p>\r\n\r\n<h2>New Content</h2>\r\n\r\n<ul>\r\n\t<li><strong>Limited-Time Event with Returning Map:</strong> Solidus Node: Depot (August 19&ndash;26)</li>\r\n</ul>\r\n\r\n<h2>New Charge System for Cycle Gear &amp; Titans</h2>\r\n\r\n<p>An experimental system has been introduced to help make it clearer for new players what exactly contributes to Cycle Gear and Titan activation. Certain events in-game will contribute to their activation:</p>\r\n\r\n<p><strong>Offensive Events:</strong></p>\r\n\r\n<ul>\r\n\t<li>Most damage dealt to a War Robot Module that directly led to its destruction</li>\r\n\t<li>Destroying a War Robot</li>\r\n\t<li>Destroying a Titan</li>\r\n\t<li>Assists</li>\r\n\t<li>Shield Damage dealt</li>\r\n\t<li>Armor Damage dealt</li>\r\n</ul>\r\n\r\n<p><strong>Tactical Events:</strong></p>\r\n\r\n<ul>\r\n\t<li>Damage absorbed</li>\r\n\t<li>Survival time</li>\r\n\t<li>Picking up a Power-Up</li>\r\n\t<li>Healing allies*</li>\r\n\t<li>Deactivating, capturing, and holding Beacons and Warp Probes</li>\r\n\t<li>Contesting Beacons and Warp Probes</li>\r\n</ul>\r\n\r\n<p>Some Events may indeed cause noticeable spikes in activations. We are collecting statistics and making adjustments as quickly as possible, both to Events and the balance of Weapons and Gear, to address new and older content alike.</p>\r\n\r\n<p>A balanced gameplay experience is just as crucial to us as it is to you. Your constructive feedback is extremely valuable to us, so let us know what you think of the new systems and please continue sharing your thoughts via the feedback channel on Discord!</p>\r\n\r\n<h2>Gameplay Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Added an &lsquo;Apply&rsquo; button when editing a War Robot&rsquo;s Paint.</li>\r\n\t<li>Players can now earn additional Impact Points for healing allies.</li>\r\n</ul>\r\n\r\n<h2>Technical Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Improved performance for the PS5 client.</li>\r\n\t<li>Fixed various crashes for the PS5 client.</li>\r\n\t<li>Improved performance in matches on all platforms.</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li><strong>Gear: </strong>Fixed a bug where Gamma Beam Cycle Gear was not available in the Intel Discount event.</li>\r\n\t<li><strong>Gear:</strong> Fixed a bug where Scorpion&rsquo;s Whiplash (Core Gear) would not enter its cooldown period when using it on the Firing Range.</li>\r\n\t<li><strong>Jobs:</strong> Fixed a bug where rewards for &lsquo;The Resurgence&rsquo;, &lsquo;Fortuitous Circumstance&rsquo;, and &lsquo;Let it Bloom&rsquo; would not be credited to the player after the Job requirements had been adjusted after the previous hotfix/patch.</li>\r\n\t<li><strong>Maps:</strong> Fixed a bug where players could get stuck in the corner of the elevator on the Solidus Node: Depot map.</li>\r\n\t<li><strong>Maps:</strong> Fixed a bug where players could shoot through the walls on the Solidus Node: Depot map.</li>\r\n\t<li><strong>War Robots:</strong> Fixed a bug where invalid War Robots would be shown in the selection when editing a Drop Team.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p>Follow the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest hotfix info.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/260-patch-notes-august-19-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/260-patch-notes-august-19-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/260-patch-notes-august-19-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/260-patch-notes-august-19-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/260-patch-notes-august-19-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/260-patch-notes-august-19-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/260-patch-notes-august-19-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/260-patch-notes-august-19-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/260-patch-notes-august-19-2025"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 73,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1688979600,
+    "title": "Free Week: Play for Free Now until July 18!",
+    "summary": "Witness the Wild Ten without charge!",
+    "url": "https://warrobotsfrontiers.com/en/news/73-free-week-begins-now",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/3/43/1150x645.png",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/3/43/1150x645.png",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Experience the full Early Access version of War Robots: Frontiers for one week, from <strong>now until July 18! </strong>Get started by downloading the game via <a href=\"http://static.gc.my.games/WarRobotsFrontiersLoader.exe\">MGLauncher</a> or the <a href=\"http://store.steampowered.com/app/1491000\">Steam Demo Version</a> and play for free without the purchase of a Pioneer Pack.</p>\r\n\r\n<p>Invite your friends to join you on the Wild Ten and discover a whole host of new Robots, Pilots, Titans, weapons, and abilities that have been added to the game since Early Access began. Find your dream teammates and check out the schedule of events via <a href=\"https://wr.app/FrontiersDiscord\">Discord</a>!</p>\r\n\r\n<p>If you want to continue your adventure in the Wild Ten when the Free Week ends, you can grab a <strong>Pioneer Pack </strong>which grants full Early Access to War Robots: Frontiers via <a href=\"https://wrfrontiers.com/packs\">wrfrontiers.com</a> and <a href=\"https://store.steampowered.com/app/1491000\">Steam</a>.</p>\r\n\r\n<p><strong>IMPORTANT</strong>: Any progress made during the Free Week will be carried over if you purchase a Pioneer Pack to continue your Early Access experience.</p>\r\n\r\n<p>Subscribe to the <a href=\"https://wrfrontiers.com/subscribe\">official War Robots: Frontiers newsletter</a> to the latest news straight to your inbox, and follow the game on <a href=\"https://twitter.com/WRFrontiers\">Twitter</a>, <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a>, and <a href=\"https://store.steampowered.com/app/1491000\">Steam</a>.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/73-free-week-begins-now",
+      "de": "https://warrobotsfrontiers.com/de/news/73-free-week-begins-now",
+      "en": "https://warrobotsfrontiers.com/en/news/73-free-week-begins-now",
+      "es": "https://warrobotsfrontiers.com/es/news/73-free-week-begins-now",
+      "fr": "https://warrobotsfrontiers.com/fr/news/73-free-week-begins-now",
+      "jp": "https://warrobotsfrontiers.com/jp/news/73-free-week-begins-now",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/73-free-week-begins-now",
+      "tr": "https://warrobotsfrontiers.com/tr/news/73-free-week-begins-now",
+      "tw": "https://warrobotsfrontiers.com/tw/news/73-free-week-begins-now"
+    }
+  }
+}

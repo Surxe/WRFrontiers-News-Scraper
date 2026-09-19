@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 19,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1671451200,
+    "title": "Dev Diary: Development Update",
+    "summary": "Discover everything available in the first update!",
+    "url": "https://warrobotsfrontiers.com/en/news/19-dev-diary-development-update",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/12/19/1150x645.png",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/12/19/1150x645.png",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Jump into the first update of War Robots: Frontiers in Early Access!&nbsp;</p>\r\n\r\n<p>This video will give you the lowdown on the first update, including quality-of-life improvements, new Robots, weapons, and abilities from Zukata, the Creative Director of War Robots: Frontiers.&nbsp;</p>\r\n\r\n<p>With the holiday season upon us, we want to thank everyone for joining the fray in Early Access of War Robots: Frontiers. Happy Holidays, and we wish you the best for the New Year!</p>\r\n\r\n<div class=\"embeddedContent oembed-provider-youtube\" data-align=\"center\" data-oembed=\"https://www.youtube.com/watch?v=mANjgz7ZnRE\" data-oembed_provider=\"youtube\" data-resizetype=\"noresize\" style=\"text-align:center\"><iframe allowfullscreen=\"true\" allowscriptaccess=\"always\" frameborder=\"0\" height=\"349\" scrolling=\"no\" src=\"//www.youtube.com/embed/mANjgz7ZnRE?wmode=transparent&amp;jqoemcache=0yuxb\" width=\"425\"></iframe></div>\r\n\r\n<p>Subscribe to our <a href=\"https://www.youtube.com/channel/UC7xxqQkPAQ7x6wIVEPZus5w\">YouTube channel</a> and stay tuned for more War Robots: Frontiers videos!&nbsp;</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/19-dev-diary-development-update",
+      "de": "https://warrobotsfrontiers.com/de/news/19-dev-diary-development-update",
+      "en": "https://warrobotsfrontiers.com/en/news/19-dev-diary-development-update",
+      "es": "https://warrobotsfrontiers.com/es/news/19-dev-diary-development-update",
+      "fr": "https://warrobotsfrontiers.com/fr/news/19-dev-diary-development-update",
+      "jp": "https://warrobotsfrontiers.com/jp/news/19-dev-diary-development-update",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/19-dev-diary-development-update",
+      "tr": "https://warrobotsfrontiers.com/tr/news/19-dev-diary-development-update",
+      "tw": "https://warrobotsfrontiers.com/tw/news/19-dev-diary-development-update"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 118,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1716282000,
+    "title": "Hotfix: Patch Notes (May 21, 2024)",
+    "summary": "Never fear, the hotfix is here!",
+    "url": "https://warrobotsfrontiers.com/en/news/118-hotfix-patch-notes-may-21-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/05/118-Hotfix/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/05/118-Hotfix/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers (Early Access) and available following a short period of maintenance on May 21, 2024.&nbsp;</p>\r\n\r\n<h2><strong>BUG FIXES</strong></h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug that caused the game to freeze at the beginning of the Battles.</li>\r\n\t<li>Improved client performance in the match (optimized destructible objects, the interface, and some VFX).</li>\r\n\t<li>Fixed a bug with the Blink ability that could prevent abilities from being used and cause Robots to become invisible.</li>\r\n\t<li><strong>Catalyst</strong>: Fixed a bug that allowed Titans to spawn inside buildings close to the northern spawn point.</li>\r\n\t<li><strong>Catalyst</strong>: Fixed a bug that allowed Robots to spawn outside of the playable area when spawning on the western spawn point.</li>\r\n\t<li>Fixed an issue that could cause the Friend List to appear empty if a Squad invite sent to a friend was canceled.</li>\r\n\t<li>Fixed a bug that could result in an endless matchmaking queue if the squad leader was kicked from the game.</li>\r\n\t<li>Removed an unintended SFX that could play when Robots collide with each other.</li>\r\n\t<li>Fixed the formatting of the HUD notification when unable to spawn a Titan.</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/118-hotfix-patch-notes-may-21-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/118-hotfix-patch-notes-may-21-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/118-hotfix-patch-notes-may-21-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/118-hotfix-patch-notes-may-21-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/118-hotfix-patch-notes-may-21-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/118-hotfix-patch-notes-may-21-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/118-hotfix-patch-notes-may-21-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/118-hotfix-patch-notes-may-21-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/118-hotfix-patch-notes-may-21-2024"
+    }
+  }
+}

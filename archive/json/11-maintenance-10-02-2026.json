@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 11,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1776664800,
+    "title": "Maintenance – 21/04/2026",
+    "summary": "Hold fire, we need to look under the hood!",
+    "url": "https://warrobotsfrontiers.com/en/news/11-maintenance-10-02-2026",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Maintenance Preview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Maintenance Full Image.webp",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>War Robots: Frontiers servers are scheduled to enter maintenance at the following time:</p>\r\n\r\n<ul>\r\n\t<li><strong>Maintenance Time:</strong>&nbsp;21/04/2026&nbsp;at 09:00 CEST (07:00 UTC)</li>\r\n\t<li><strong>Estimated Downtime: </strong>4<strong>&nbsp;</strong>hours</li>\r\n</ul>\r\n\r\n<p>The game servers will be inaccessible during this time. Keep an eye on our official social channels and Discord for further updates, and to find out when War Robots: Frontiers servers are live again.</p>\r\n\r\n<p>Thank you for your patience!</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/11-maintenance-10-02-2026",
+      "de": "https://warrobotsfrontiers.com/de/news/11-maintenance-10-02-2026",
+      "en": "https://warrobotsfrontiers.com/en/news/11-maintenance-10-02-2026",
+      "es": "https://warrobotsfrontiers.com/es/news/11-maintenance-10-02-2026",
+      "fr": "https://warrobotsfrontiers.com/fr/news/11-maintenance-10-02-2026",
+      "jp": "https://warrobotsfrontiers.com/jp/news/11-maintenance-10-02-2026",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/11-maintenance-10-02-2026",
+      "tr": "https://warrobotsfrontiers.com/tr/news/11-maintenance-10-02-2026",
+      "tw": "https://warrobotsfrontiers.com/tw/news/11-maintenance-10-02-2026"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": 25,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1672218000,
+    "title": "Hotfix 0.10.1.2 Patch Notes (December 28, 2022)",
+    "summary": "Find out what we are fixing with this small update.",
+    "url": "https://warrobotsfrontiers.com/en/news/25-hotfix-0-10-1-2-patch-notes-december-28-2022",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These are the patch notes for the War Robots: Frontiers build available from December 28, 2022.</p>\r\n\r\n<p><strong>QOL IMPROVEMENTS</strong></p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Upon saving a Robot build into a loadout preset, the preset will now get the name of the Hangar slot in which the build was assembled.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Upon importing a loadout preset, the preset name will now be identical to the code randomly generated on the end of the player who created the preset.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>BUGS FIXED</strong></p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Fixed the issue that caused holographic replacements to render on top of other items in the Hangar.</p>\r\n\t</li>\r\n</ul>",
+    "alternates": {
+      "de": "https://warrobotsfrontiers.com/de/news/25-hotfix-0-10-1-2-patch-notes-december-28-2022",
+      "en": "https://warrobotsfrontiers.com/en/news/25-hotfix-0-10-1-2-patch-notes-december-28-2022",
+      "es": "https://warrobotsfrontiers.com/es/news/25-hotfix-0-10-1-2-patch-notes-december-28-2022",
+      "fr": "https://warrobotsfrontiers.com/fr/news/25-hotfix-0-10-1-2-patch-notes-december-28-2022",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/25-hotfix-0-10-1-2-patch-notes-december-28-2022",
+      "tr": "https://warrobotsfrontiers.com/tr/news/25-hotfix-0-10-1-2-patch-notes-december-28-2022"
+    }
+  }
+}
