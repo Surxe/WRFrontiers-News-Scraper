@@ -49,7 +49,7 @@ from pathlib import Path
 BASE = "https://warrobotsfrontiers.com"
 LIST_PATH = "/api/news"
 ARTICLE_PATH = "/api/news/{id}"
-USER_AGENT = "wrf-news-research/1.0 (+https://github.com/Surxe/wrf-news-research)"
+USER_AGENT = "WRFrontiers-News-Scraper/1.0 (+https://github.com/Surxe/WRFrontiers-News-Scraper)"
 TIMEOUT = 30
 SLEEP = 0.3  # polite delay between requests (seconds)
 

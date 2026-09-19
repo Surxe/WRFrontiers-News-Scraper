@@ -1,103 +1,77 @@
-# wrf-news-research
+# WRFrontiers-News-Scraper
 
-Research + tooling for tracking the [War Robots: Frontiers news feed](https://warrobotsfrontiers.com/en/news?category=all&page=1),
-so we can see **how and when the WRF team edits news posts** — in particular the
-recurring weekly **Intel & Salvage Discount** article, whose item list feeds
+Scrapes the [War Robots: Frontiers news feed](https://warrobotsfrontiers.com/en/news)
+and, when a new **weekly Intel & Salvage discount** is announced, hands it to
 [WRFrontiers-Discount-Visualizer](https://github.com/Surxe/WRFrontiers-Discount-Visualizer).
 
-## How the news page works
-
-The site (`https://warrobotsfrontiers.com`) is a **Nuxt (Vue) SSR** frontend
-served by nginx, but behind it is a clean **Laravel-style JSON API**. There's no
-need to scrape rendered HTML — hit the API directly:
+The site is a Nuxt (Vue) SSR frontend over a clean JSON API, so we hit the API
+directly instead of scraping HTML:
 
 | Endpoint | Returns |
 |---|---|
-| `GET /api/news?page=N` | Paginated list: `{ data: [ …12 items… ], links, meta }`. `meta` = `current_page, last_page (25), per_page (12), total (292)`. Each item carries metadata (`id, title, summary, url, published_at, preview_image, full_image, category_*, meta_*, author, related_tags`) but **not** the body. |
-| `GET /api/news/{id}` | One article: `{ data: { … } }`. Same fields **plus `content`** (full body HTML) and `alternates` (per-language URLs). `/api/news/{id}` and `/api/news/{id}-slug` are equivalent. |
+| `GET /api/news?page=N` | Paginated list (12/page, `meta.last_page` ~25). Metadata only, no body. |
+| `GET /api/news/{id}` | One article incl. `content` (full body HTML). |
 
-`published_at` is a Unix timestamp (seconds, UTC).
+## The pipeline (two steps)
 
-### The "bump an old post" mechanism
+Run on a schedule (systemd timer on the home server — see
+[`docs/HOME-SERVER-HANDOFF.md`](docs/HOME-SERVER-HANDOFF.md)):
 
-The list is ordered by **`published_at` descending**. The WRF team does **not**
-publish a fresh discount article each week — they **edit one recurring article in
-place**:
+1. **Scrape** — `archive.py --latest 3` fetches the 3 latest posts and persists
+   each (payload + body) into the committed `archive/`.
+2. **Detect + dispatch** — `watch_discount.py` reads those persisted posts,
+   identifies the discount post, reduces its current week to a canonical id, and
+   — if that week is new — dispatches the visualizer's `all.yml` workflow with the
+   as-announced item names + `MM-DD MM-DD` date range. The visualizer does its own
+   name→game-id mapping. (A future PR may add an LLM name-resolution step.)
 
-- The **`id` and URL slug never change.** e.g. the discount article is `id=272`
-  with slug `272-intel-salvage-discount-event-save-big-april-14-21` — the slug is
-  a fossil of the *original* April post date.
-- Each week they **rewrite the title/dates**, **prepend the new week's items**,
-  and **bump `published_at`** to "now", so the same article re-surfaces on page 1.
-- The discount items live in that article's `content` HTML as repeated blocks:
-  `Featured Items (August 4–11)` → `War Robot Modules: …`, `Weapons: …`,
-  `Gear: …`, with prior weeks accumulating underneath.
+### How the discount post is identified
 
-Because the id is stable, snapshotting the same article file each run gives a
-readable diff of exactly what changed between snapshots. `data/` is **gitignored
-by default** (see below) — un-ignore it if you want git to retain that edit
-history via `git log -p data/`.
+Not by id, title, or category — those drift or leak. The reliable, format- and
+id-agnostic signal (validated against the full 298-article archive: 2 hits, both
+genuine, zero false positives) is the **dated discount-schedule header**:
 
-## Snapshot script
+```
+<h2>Featured Items (September 15–22)</h2>      # current format
+<h2>Upgrade Discounts (July 29–August 12)</h2> # older format
+```
 
-`scripts/snapshot.py` — standard library only, no dependencies.
+`detect.py` owns this signal and the week parsing. `python3 scripts/detect.py --verify`
+re-checks it against `archive/` and prints what it finds.
 
-Each run it:
+### De-duplication by week
 
-1. Fetches `/api/news?page=1` → `news_list.json`.
-2. Takes the **3 latest** items from that list and fetches each in full
-   (`/api/news/{id}`), writing:
-   - `articles/<id>-<slug>.json` — full article payload.
-   - `articles/<id>-<slug>.content.html` — just the `content` body, so
-     edits diff readably.
+The current week is reduced to a canonical `YYYY-MM-DD` start date (the article
+text has no year; it's inferred from `published_at`). `watch_discount.py` records
+parsed weeks in its state file and never re-dispatches one — so extra polls and
+catch-ups are free, and a week that resurfaces under a new post id is still
+recognized as already-handled.
 
-Output is **bucketed per day** under `data/<YYYY-MM-DD>/`. Re-running on the same
-day **overwrites that day's files** (idempotent), so a repeated pull just
-refreshes today's snapshot. A new day starts a fresh folder, so an article that
-was edited/bumped between days is captured separately per pull-day.
+## Scripts
 
-`data/` is gitignored by default, so snapshots are local working output;
-un-ignore it (edit `.gitignore`) if you want the day folders recorded in git.
+| Script | Role |
+|---|---|
+| `scripts/archive.py` | Scrape + persist. `--latest N` for the N newest, or all pages for a full catalog. Idempotent; verbatim payloads so `git diff archive/` shows only WRF's edits. |
+| `scripts/detect.py` | The discount signal + week parsing (`is_discount`, `current_week`, `week_id`, `week_range_mmdd`, `discount_items`). `--verify` checks it against the archive. |
+| `scripts/watch_discount.py` | Detect a new discount week from the archive and dispatch the visualizer (dry-run unless `--dispatch` / `WRF_DISPATCH=1`). |
+| `scripts/snapshot.py` | Standalone per-day snapshot into gitignored `data/` (the original manual tool; kept for ad-hoc diffing). |
 
 ```bash
-python3 scripts/snapshot.py                    # -> data/<today>/
-python3 scripts/snapshot.py --latest 5         # capture more articles
-python3 scripts/snapshot.py --date 2026-08-08  # force a specific day folder
-python3 scripts/snapshot.py --page 2           # snapshot an older list page
+python3 scripts/archive.py --latest 3          # step 1
+python3 scripts/watch_discount.py --latest 3   # step 2 (dry-run)
+python3 scripts/watch_discount.py --dispatch   # step 2, actually fire the workflow
+python3 scripts/detect.py --verify             # re-validate the signal
 ```
 
-### Desktop shortcut (KDE)
-
-The KDE launcher for this tool is managed centrally in **`my-system`**, not here.
-Its `.desktop` lives at `my-system/users/ethan/desktop-entries/wrf-news-snapshot.desktop`
-(created via the `/add-shortcut` skill) and is deployed to the app menu + desktop
-by `my-system/users/install.sh`.
-
-For security, the launcher `Exec=` does **not** point at a script in this
-(dev-writable) repo — that would run repo code with ethan's privileges. Instead
-it runs `wrf-news-snapshot`, a thin launcher in `my-system/users/ethan/localbin/`
-that `install.sh` copies (review-gated) into ethan's `~/.local/bin`; that copy
-hops to the `dev` user and runs `scripts/snapshot.py` from here as its owner. Only
-`Icon=` (`assets/icon.svg`) is still referenced in this repo — an asset, not code.
-
-### Recommended cadence
-
-Run on each in-game update (weekly, when the discount refreshes — Tuesdays
-~10:00 CEST / 01:00 PT). If you un-ignore `data/`, committing after each run
-captures every edit to the bumped articles in git history.
-
-## Repository layout
+## Layout
 
 ```
-wrf-news-research/
-├── assets/
-│   └── icon.svg                   # launcher icon (referenced by my-system's .desktop)
-├── scripts/
-│   └── snapshot.py                # fetch news list + N latest articles
-└── data/                          # gitignored; per-day snapshots
-    └── <YYYY-MM-DD>/
-        ├── news_list.json               # /api/news?page=1
-        └── articles/
-            ├── <id>-<slug>.json         # full article payload
-            └── <id>-<slug>.content.html # article body HTML (readable diffs)
+WRFrontiers-News-Scraper/
+├── scripts/         archive.py, detect.py, watch_discount.py, snapshot.py
+├── archive/         committed catalog: index.json + json/ + html/
+├── data/            gitignored: snapshot.py output + watch_state.json
+├── assets/          launcher icon
+└── docs/            HOME-SERVER-HANDOFF.md
 ```
+
+`gh` (for the dispatch) is authenticated as the `dev` user on the home server.
