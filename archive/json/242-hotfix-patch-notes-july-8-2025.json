@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 242,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1751896800,
+    "title": "Hotfix Patch Notes — July 8, 2025",
+    "summary": "Juicy changes for July.",
+    "url": "https://warrobotsfrontiers.com/en/news/242-hotfix-patch-notes-july-8-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — July 8, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> July 8, 2025.</strong></p>\r\n\r\n<h1>New Content</h1>\r\n\r\n<ul>\r\n\t<li><strong>Impact Event (July 8&ndash;15):</strong> Make a splash! Battle to earn double Impact Points from all your Assists, Kills, and Wins.</li>\r\n</ul>\r\n\r\n<h1>Gameplay Adjustments</h1>\r\n\r\n<ul>\r\n\t<li><strong>Stranded Pilots (Job): </strong>The difficulty has been adjusted. Capturing 1 Warp Probe (Spearhead) now requires 200 Points (previously 100).</li>\r\n\t<li><strong>Sound</strong>: Added SFX for projectiles absorbed by Bulwark&rsquo;s Absorber Sphere (Core Gear).</li>\r\n\t<li><strong>UI</strong>: Floating damage numbers from hitting enemies now stay on screen longer.</li>\r\n</ul>\r\n\r\n<h1>Bug Fixes</h1>\r\n\r\n<h3>Technical</h3>\r\n\r\n<ul>\r\n\t<li>Fixed various crash-related issues on PC, PlayStation 5, and PlayStation 4.</li>\r\n</ul>\r\n\r\n<h3>General</h3>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where a player could spawn in with a War Robot and be unable to control it.</li>\r\n\t<li>Fixed a bug where Cyclops&rsquo; Death Ray (Core Gear) could deal damage through barriers.</li>\r\n\t<li>Fixed a bug where Energy Wall (Supply Gear) would not receive any damage from explosions and splash damage.</li>\r\n\t<li>Fixed a bug where Blueprints would be displayed before owned parts in the Warehouse.</li>\r\n</ul>\r\n\r\n<p>Store</p>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where the same item could appear on the same slot multiple times in a row when the selection refreshes.</li>\r\n</ul>\r\n\r\n<p>Don&rsquo;t forget to check out the <a href=\"https://www.youtube.com/watch?v=RvOHuOXj7GY\">latest episode of our <strong>Dev Shorts</strong> series</a>, where we discuss Season 2: Power Surge, player feedback, development cycles, and exciting upcoming events. It also features our new roadmap, covering the next few months of War Robots: Frontiers.</p>\r\n\r\n<hr />\r\n<p>Follow War Robots: Frontiers on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a>, and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest updates and intel from the Wild Ten.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int?_gl=1*1edx5q6*_gcl_au*MjA5NDY5MDQwMS4xNzQ1OTk3MDIy*_ga*OTAwMDE1OTAyLjE3NDU5OTcwMjI.*_ga_MYTQHMLKPB*czE3NDk3MjE1MDQkbzExJGcxJHQxNzQ5NzIxOTAxJGo2MCRsMCRoMA..\">Support</a> team, and we&rsquo;ll get your battles back on track.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/242-hotfix-patch-notes-july-8-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/242-hotfix-patch-notes-july-8-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/242-hotfix-patch-notes-july-8-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/242-hotfix-patch-notes-july-8-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/242-hotfix-patch-notes-july-8-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/242-hotfix-patch-notes-july-8-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/242-hotfix-patch-notes-july-8-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/242-hotfix-patch-notes-july-8-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/242-hotfix-patch-notes-july-8-2025"
+    }
+  }
+}

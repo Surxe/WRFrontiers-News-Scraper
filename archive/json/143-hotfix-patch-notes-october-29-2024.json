@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 143,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1730124000,
+    "title": "Hotfix: Patch Notes (October 29, 2024)",
+    "summary": "Autumnal improvements.",
+    "url": "https://warrobotsfrontiers.com/en/news/143-hotfix-patch-notes-october-29-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers and available following a short period of maintenance on October 29, 2024.&nbsp;</p>\r\n\r\n<h2>General Fixes &amp; Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Players&rsquo; ping will now be taken into consideration when matchmaking and is divided into the following three brackets: 0-100ms, 101-200ms, 201+ms</li>\r\n\t<li>Client stability has been improved.</li>\r\n\t<li>Client stability has been further improved on low graphics settings.</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where Grim could get inside buildings on the Catalyst map.</li>\r\n\t<li>Fixed a bug where players could jump on the pillars of the Crusher on the Catalyst map.</li>\r\n\t<li>Fixed a bug where enemy Ares&rsquo; shields were barely visible to players.</li>\r\n\t<li>Fixed a bug where projectiles flying by the players&rsquo; Robots would play no sound effects when reducing the in-game volume to &lt;57.</li>\r\n\t<li>Fixed a bug where the visual effects of the abilities &ldquo;Healing Drone&rdquo; and &ldquo;Smoke Screen&rdquo; would occasionally reappear when other players used them.</li>\r\n\t<li>Fixed a bug where the automatic screen resolution detection did not work properly.</li>\r\n\t<li>Fixed a bug where projectiles fired from Ares&rsquo; ability &ldquo;Retribution&rdquo; would visually fly off and miss the target when playing on low graphics quality.</li>\r\n\t<li>Fixed a bug where after using the ability &ldquo;Trickster&rdquo;, the mini-map icon of the player&rsquo;s Robot class would change.</li>\r\n\t<li>Fixed a bug where no drones would visually spawn when using &ldquo;Healing Drone&rdquo; and &ldquo;Repair Armor&rdquo; to repair the legs and pelvis of the Robot.</li>\r\n\t<li>Fixed a bug where projectiles of the weapon &ldquo;Halo&rdquo; were not visible.</li>\r\n\t<li>Fixed a bug where trees would not be destroyed and instead flicker in and out when walking over them on the map &ldquo;Spectrum&rdquo;.</li>\r\n</ul>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://wrfrontiers.com/subscribe\"><strong><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Newsletter%20Buttons/en.png\" /></strong></a></p>\r\n\r\n<p>Get more of the latest news like this by following the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> (<a href=\"https://twitter.com/WRFrontiers\">Twitter</a>) and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and joining the <a href=\"https://wr.app/FrontiersDiscord\">official Discord server</a>.&nbsp;</p>\r\n\r\n<p>You can also wishlist and follow War Robots: Frontiers on <a href=\"https://store.steampowered.com/app/1491000\">Steam</a> to get the latest updates there.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/143-hotfix-patch-notes-october-29-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/143-hotfix-patch-notes-october-29-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/143-hotfix-patch-notes-october-29-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/143-hotfix-patch-notes-october-29-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/143-hotfix-patch-notes-october-29-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/143-hotfix-patch-notes-october-29-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/143-hotfix-patch-notes-october-29-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/143-hotfix-patch-notes-october-29-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/143-hotfix-patch-notes-october-29-2024"
+    }
+  }
+}

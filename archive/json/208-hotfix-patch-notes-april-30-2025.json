@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 208,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1745942400,
+    "title": "Hotfix Patch Notes — April 30, 2025",
+    "summary": "Showering you with April adjustments.",
+    "url": "https://warrobotsfrontiers.com/en/news/208-hotfix-patch-notes-april-30-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — April 30, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> April 30, 2025.</strong></p>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<p><strong>Shocktrain (Weapon)</strong></p>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where the weapon was not affected by damage fall-off over distance. The projectile now correctly deals more damage the closer you are to the target.</li>\r\n\t<li>Fixed a bug where the weapon&rsquo;s projectile would chain off the ground or allies.</li>\r\n\t<li>Fixed a bug where the first two targets of the weapon received the same amount of damage. The damage for subsequent targets will now be correctly reduced after hitting the first target.</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/208-hotfix-patch-notes-april-30-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/208-hotfix-patch-notes-april-30-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/208-hotfix-patch-notes-april-30-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/208-hotfix-patch-notes-april-30-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/208-hotfix-patch-notes-april-30-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/208-hotfix-patch-notes-april-30-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/208-hotfix-patch-notes-april-30-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/208-hotfix-patch-notes-april-30-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/208-hotfix-patch-notes-april-30-2025"
+    }
+  }
+}

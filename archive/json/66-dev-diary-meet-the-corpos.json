@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 66,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1687510800,
+    "title": "Dev Diary: Meet The Corpos Update (Coming June 28)",
+    "summary": "Get the lowdown on the new update.",
+    "url": "https://warrobotsfrontiers.com/en/news/66-dev-diary-meet-the-corpos",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/6/66/1150x645.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/6/66/1150x645.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>The Meet The Corpos Update arrives in War Robots: Frontiers on <strong>June 28</strong>, and it&rsquo;s time to say hello to the upcoming content in a new Dev Diary.</p>\r\n\r\n<ul>\r\n\t<li>Prepare to take on Daily and Weekly <strong>Contracts </strong>to earn a new currency (<strong>Intel</strong>) for item upgrades. Alloys are still needed to level up your gear, but getting past certain levels will now require Intel as well.</li>\r\n\t<li>You can earn rewards with the <strong>Supply Line</strong>&mdash;collect a special currency from battles then spend it on seasonal rewards, including the newest items, cosmetics, and other goods direct from Corpo warehouses.</li>\r\n\t<li>Reap what you sow with the new Titan&mdash;<strong>Grim</strong>! Tear through enemies with this aggressive and speedy bot, exchanging durability for damage.</li>\r\n</ul>\r\n\r\n<p>Check out a sneak peek of all the content arriving with the Meet the Corpos Update in the latest Dev Diary from Zukata, the Creative Director of War Robots: Frontiers.</p>\r\n\r\n<div class=\"embeddedContent oembed-provider-youtube\" data-align=\"center\" data-oembed=\"https://www.youtube.com/watch?v=nr-KqfIX-nw\" data-oembed_provider=\"youtube\" data-resizetype=\"noresize\" style=\"text-align:center\"><iframe allowfullscreen=\"true\" allowscriptaccess=\"always\" frameborder=\"0\" scrolling=\"no\" src=\"//www.youtube.com/embed/nr-KqfIX-nw?wmode=transparent&amp;jqoemcache=KbEpm\"></iframe></div>\r\n\r\n<p>Subscribe to our <a href=\"https://www.youtube.com/channel/UC7xxqQkPAQ7x6wIVEPZus5w\">YouTube channel</a> for more War Robots: Frontiers videos!</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/66-dev-diary-meet-the-corpos",
+      "de": "https://warrobotsfrontiers.com/de/news/66-dev-diary-meet-the-corpos",
+      "en": "https://warrobotsfrontiers.com/en/news/66-dev-diary-meet-the-corpos",
+      "es": "https://warrobotsfrontiers.com/es/news/66-dev-diary-meet-the-corpos",
+      "fr": "https://warrobotsfrontiers.com/fr/news/66-dev-diary-meet-the-corpos",
+      "jp": "https://warrobotsfrontiers.com/jp/news/66-dev-diary-meet-the-corpos",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/66-dev-diary-meet-the-corpos",
+      "tr": "https://warrobotsfrontiers.com/tr/news/66-dev-diary-meet-the-corpos",
+      "tw": "https://warrobotsfrontiers.com/tw/news/66-dev-diary-meet-the-corpos"
+    }
+  }
+}

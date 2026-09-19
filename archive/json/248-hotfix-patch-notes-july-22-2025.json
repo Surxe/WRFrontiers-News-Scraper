@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 248,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1753106400,
+    "title": "Hotfix Patch Notes — July 22, 2025",
+    "summary": "Enjoy limited-time events in July!",
+    "url": "https://warrobotsfrontiers.com/en/news/248-hotfix-patch-notes-july-22-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — July 22, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> July 22, 2025.</strong></p>\r\n\r\n<h2>New Content</h2>\r\n\r\n<h3>Solidus Node: Foundry</h3>\r\n\r\n<p><strong>Event duration: </strong>July 22 - July 29</p>\r\n\r\n<ul>\r\n\t<li>Added the limited-time event map to the map pool: Solidus Node: Foundry.</li>\r\n\t<li>This map supports all gameplay modes (Spearhead, Team Deathmatch, Last Robot Standing, Warp Rush).</li>\r\n\t<li>This map has the same rate of appearing as other maps.</li>\r\n</ul>\r\n\r\n<h3>Special Job Event</h3>\r\n\r\n<p><strong>Event duration: </strong>July 22 - July 29</p>\r\n\r\n<ul>\r\n\t<li>Complete additional Daily and Weekly Jobs to earn more Credits and Intel for the duration of the event.</li>\r\n</ul>\r\n\r\n<p>More details for this event will be shared on July 22 in a separate publication.</p>\r\n\r\n<h2>Gameplay Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Added a unique camera shake effect for the &ldquo;Bisector&rdquo; Weapon.</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>The Ceres Core Gear &ldquo;Rejuvenator&rdquo; decal no longer disappears when the War Robot jumps.</li>\r\n\t<li>Resolved an issue where the Ceres Core Gear &ldquo;Rejuvenator&rdquo; percentage stat values were rounding up.</li>\r\n\t<li>Resolved an issue where Shoulder Modules would disappear on lower graphical settings after the Torso from certain War Robots became damaged.</li>\r\n\t<li>Resolved an issue where the label &ldquo;OWNED&rdquo; was not appearing on Shop bundles that players had already purchased.</li>\r\n\t<li>Resolved an issue where incorrect text appeared when the Import Robot Code in the workshop was not correct.</li>\r\n\t<li>Resolved an issue on PlayStation 5 that was causing crashes.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p>Follow the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest hotfix info.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/248-hotfix-patch-notes-july-22-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/248-hotfix-patch-notes-july-22-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/248-hotfix-patch-notes-july-22-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/248-hotfix-patch-notes-july-22-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/248-hotfix-patch-notes-july-22-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/248-hotfix-patch-notes-july-22-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/248-hotfix-patch-notes-july-22-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/248-hotfix-patch-notes-july-22-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/248-hotfix-patch-notes-july-22-2025"
+    }
+  }
+}

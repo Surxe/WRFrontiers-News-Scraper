@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 199,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1744811940,
+    "title": "Hotfix Patch Notes — April 17, 2025",
+    "summary": "All new for April.",
+    "url": "https://warrobotsfrontiers.com/en/news/199-hotfix-patch-notes-april-17-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — April 17, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> April 17, 2025.</strong></p>\r\n\r\n<h2>Matchmaking</h2>\r\n\r\n<ul>\r\n\t<li>Players in Gold League will only match with other Gold players, and no longer match with Platinum and above.</li>\r\n</ul>\r\n\r\n<h2>General Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Prepared the upcoming Battle Pass: Smuggler&rsquo;s Run, which launches on April 22, 2025.</li>\r\n\t<li>Adjusted the level requirement to show the Shop Banner which includes information to where to obtain Robots and Robot Modules for players at Level 10 and below.</li>\r\n</ul>\r\n\r\n<h2>Gameplay Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Added a new Daily Job, in addition to the existing three Jobs (five for Premium Account holders). This new Daily Job will always have the same completion conditions: Win 1 Battle.</li>\r\n\t<li>Updated a job description to include that a specific Torso is needed to complete the job for the following:\r\n\t<ul>\r\n\t\t<li>Capture 6 Warp Gates using Orochi or Harpy Torso.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where weapon hit registration was inconsistent.</li>\r\n\t<li>Returned the missing description for Typhon&rsquo;s Core Gear: Blackout.</li>\r\n\t<li>Fixed a bug where the Bulwark&rsquo;s Core Gear &ldquo;Absorber Sphere&rdquo; would treat shots from &ldquo;Thunder&rdquo; weapons as one projectile. &ldquo;Absorber Sphere&rdquo; now correctly recognizes each pellet as a projectile and absorbs them as intended.</li>\r\n\t<li>Fixed a bug where the rarity of Warp &ldquo;Infinity Breaker&rdquo; was incorrect.</li>\r\n\t<li>Fixed a bug where the weapon &ldquo;Shocktrain&rdquo; would deal 200% of the intended damage when the game was set to 30 FPS.</li>\r\n\t<li>Fixed a bug where Pilot Talent trigger notifications for proximity based Pilot Talents would repeat endlessly.</li>\r\n\t<li>Fixed a bug where players were able to increase the aiming height when aiming down sights with specific weapons, which allowed them to aim over walls and cover.</li>\r\n\t<li>Fixed a bug on the map &ldquo;Fissure&rdquo; where the camera would clip through certain parts of terrain and structures.</li>\r\n\t<li>Fixed a bug where purchases on PlayStation could timeout which would result in a &ldquo;Failed to get purchase&rdquo; error.</li>\r\n</ul>\r\n\r\n<p>Follow the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest hotfix info.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/199-hotfix-patch-notes-april-17-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/199-hotfix-patch-notes-april-17-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/199-hotfix-patch-notes-april-17-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/199-hotfix-patch-notes-april-17-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/199-hotfix-patch-notes-april-17-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/199-hotfix-patch-notes-april-17-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/199-hotfix-patch-notes-april-17-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/199-hotfix-patch-notes-april-17-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/199-hotfix-patch-notes-april-17-2025"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 133,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1724248800,
+    "title": "Hotfix: Patch Notes (August 22, 2024)",
+    "summary": "Faster, better, stronger.",
+    "url": "https://warrobotsfrontiers.com/en/news/133-hotfix-patch-notes-august-22-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/05/118-Hotfix/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/05/118-Hotfix/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers and available following a short period of maintenance on August 22, 2024.&nbsp;</p>\r\n\r\n<h2>General Fixes &amp; Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Reduced the maximum matchmaking time to 30 seconds.<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<p>Get more of the latest news like this by following the game on <a href=\"https://twitter.com/WRFrontiers\">Twitter</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and joining the <a href=\"http://link\">official Discord server</a>.&nbsp;</p>\r\n\r\n<p>You can also wishlist and follow War Robots: Frontiers on <a href=\"https://store.steampowered.com/app/1491000\">Steam</a> to get the latest updates there.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/133-hotfix-patch-notes-august-22-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/133-hotfix-patch-notes-august-22-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/133-hotfix-patch-notes-august-22-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/133-hotfix-patch-notes-august-22-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/133-hotfix-patch-notes-august-22-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/133-hotfix-patch-notes-august-22-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/133-hotfix-patch-notes-august-22-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/133-hotfix-patch-notes-august-22-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/133-hotfix-patch-notes-august-22-2024"
+    }
+  }
+}

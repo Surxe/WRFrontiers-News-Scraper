@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 32,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1675339200,
+    "title": "New Website Feature: Your Account",
+    "summary": "Go here to change your Nickname and password, or upgrade your Pioneer Pack!",
+    "url": "https://warrobotsfrontiers.com/en/news/32-new-website-feature-your-account",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/2/32/1150x645_Green.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/2/32/1150x645_Green.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Introducing <a href=\"https://wrfrontiers.com/account\">Your Account</a>, a new page on the War Robots: Frontiers website where you can:</p>\r\n\r\n<ul>\r\n\t<li>Update your password</li>\r\n\t<li>Change your in-game Nickname (limited to every 24 hours)</li>\r\n\t<li>Upgrade your current Pioneer Pack</li>\r\n\t<li>Check your details, including your email address, User ID, and Nickname</li>\r\n</ul>\r\n\r\n<p><br />\r\nYou can access <strong>Your Account</strong> by clicking your username in the top-right corner of the War Robots: Frontiers website, and selecting it from the drop-down box.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/32-new-website-feature-your-account",
+      "de": "https://warrobotsfrontiers.com/de/news/32-new-website-feature-your-account",
+      "en": "https://warrobotsfrontiers.com/en/news/32-new-website-feature-your-account",
+      "es": "https://warrobotsfrontiers.com/es/news/32-new-website-feature-your-account",
+      "fr": "https://warrobotsfrontiers.com/fr/news/32-new-website-feature-your-account",
+      "jp": "https://warrobotsfrontiers.com/jp/news/32-new-website-feature-your-account",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/32-new-website-feature-your-account",
+      "tr": "https://warrobotsfrontiers.com/tr/news/32-new-website-feature-your-account",
+      "tw": "https://warrobotsfrontiers.com/tw/news/32-new-website-feature-your-account"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": 79,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1694509200,
+    "title": "Hotfix 0.120.21.9104 Patch Notes (September 12, 2023)",
+    "summary": "Find out what we are fixing with this small update.",
+    "url": "https://warrobotsfrontiers.com/en/news/79-patch-notes-september-12-2023",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These patch notes detail changes for the War Robots: Frontiers build available from September 12, 2023.</p>\r\n\r\n<p><strong>TECHNICAL CHANGES</strong></p>\r\n\r\n<ul>\r\n\t<li>Removed the SMAA option from antialiasing settings.</li>\r\n\t<li>Fixed changes not applying to the Resolution Scale setting when TSR upscaling is selected.</li>\r\n\t<li>Increased Elimination Mode match duration to 18 minutes.</li>\r\n</ul>\r\n\r\n<p><strong>BALANCE CHANGES</strong></p>\r\n\r\n<ul>\r\n\t<li>Matriarch Shotguns: Reduced accuracy, reduced maximum range to 350 meters, reduced the number of particles per shot to 10, and reduced damage to the core by 25%.</li>\r\n\t<li>Grim Cannon: Increased damage to the core by 20%.</li>\r\n\t<li>Scatter: Reduced damage to armor by 10% and reduced damage to the core by 25%.</li>\r\n\t<li>AI bot difficulty decreased for players up to and including Level 25.</li>\r\n</ul>",
+    "alternates": {
+      "en": "https://warrobotsfrontiers.com/en/news/79-patch-notes-september-12-2023",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/79-patch-notes-september-12-2023"
+    }
+  }
+}

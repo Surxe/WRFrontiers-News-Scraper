@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": 92,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1701849600,
+    "title": "Hotfix 0.13.2 Patch Notes (December 06, 2023)",
+    "summary": "This small update includes a number of important bug fixes.",
+    "url": "https://warrobotsfrontiers.com/en/news/92-hotfix-0-13-2-patch-notes-december-06-2023",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These patch notes detail changes for the War Robots: Frontiers build available after maintenance on December 6, 2023.</p>\r\n\r\n<h2>BUGS FIXED</h2>\r\n\r\n<ul>\r\n\t<li>Fixed the Titan hangar slot incorrectly displaying as empty.</li>\r\n\t<li>Fixed crashes when closing the News window.</li>\r\n\t<li>Fixed robots moving forward from the spawn area without any input from the player.</li>\r\n\t<li>Fixed Auto Spawn disabling in Team Deathmatch when the player loses all their robots.</li>\r\n\t<li>Fixed blueprint modules adding progress in torso- and weapon-specific Contracts.</li>\r\n\t<li>Fixed the amount of robots used by AI opponents being based on the lowest player level in a Squad rather than the highest.</li>\r\n\t<li>Beacons in Tutorial mode can now be correctly captured.</li>\r\n</ul>",
+    "alternates": {
+      "en": "https://warrobotsfrontiers.com/en/news/92-hotfix-0-13-2-patch-notes-december-06-2023",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/92-hotfix-0-13-2-patch-notes-december-06-2023"
+    }
+  }
+}

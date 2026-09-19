@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 72,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1688720400,
+    "title": "Hotfix 0.12.1 Patch Notes (July 7, 2023)",
+    "summary": "Find out what we are fixing with this small update.",
+    "url": "https://warrobotsfrontiers.com/en/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These patch notes detail changes for the War Robots: Frontiers build available from July 7, 2023.</p>\r\n\r\n<p><strong>BUGS FIXED</strong></p>\r\n\r\n<ul>\r\n\t<li>Fixed an issue that prevented Supply Line completion notifications from appearing on the Hangar screen.</li>\r\n\t<li>Fixed the BACK button in the Squad window immediately opening the main Hangar view.</li>\r\n\t<li>Fixed an issue that allowed accounts with the Titans feature still locked to open Titan Constructor.</li>\r\n\t<li>Fixed Vortex missiles detonating before reaching maximum range.</li>\r\n\t<li>Fixed armor modules disappearing at random during the match.</li>\r\n\t<li>Fixed AI bots getting stuck at certain locations on Crash Site.</li>\r\n</ul>\r\n\r\n<p><strong>OTHER IMPROVEMENTS</strong></p>\r\n\r\n<ul>\r\n\t<li>Updated Pilot character icons.</li>\r\n\t<li>Added animation when unlocking a Supply Line.</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "de": "https://warrobotsfrontiers.com/de/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "en": "https://warrobotsfrontiers.com/en/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "es": "https://warrobotsfrontiers.com/es/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "fr": "https://warrobotsfrontiers.com/fr/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "jp": "https://warrobotsfrontiers.com/jp/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "tr": "https://warrobotsfrontiers.com/tr/news/72-hotfix-0-12-1-patch-notes-july-7-2023",
+      "tw": "https://warrobotsfrontiers.com/tw/news/72-hotfix-0-12-1-patch-notes-july-7-2023"
+    }
+  }
+}

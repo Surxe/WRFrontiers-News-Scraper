@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 22,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1671624000,
+    "title": "Transfers Items from your Hangar In-game!",
+    "summary": "We’ve simplified item transfers in the latest update. Find out more!",
+    "url": "https://warrobotsfrontiers.com/en/news/22-transfers-items-from-your-hangar-in-game",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/12/22/News Assets_1150x645.png",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/12/22/News Assets_1150x645.png",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Early Access is a great opportunity for us to streamline War Robots: Frontiers systems and features. In the December Content Update, we were keen to implement functionality to make it even easier to transfer items from your <a href=\"https://wrfrontiers.com/inventory\">Inventory</a> to the game.&nbsp;</p>\r\n\r\n<p>We&rsquo;re pleased to announce that you can now <strong>transfer items from your Inventory to your Hangar in-game</strong>! Simply go to your Hangar and press &lsquo;C&rsquo; (or find the button in the lower left corner) to begin the item transfer process.</p>\r\n\r\n<p><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/12/22/1.png\" /></p>\r\n\r\n<p>Any current and future items that appear in your Inventory will also be accessible from the Hangar, including Pioneer Pack items, Twitch Drops, and more. You can still transfer items via the official website &ndash; for more information, check out our handy <a href=\"https://wrfrontiers.com/news/9\">Inventory and item transfer guide</a>.</p>\r\n\r\n<p>For more details about the December Content Update, check out the latest <a href=\"https://wrfrontiers.com/news/20\">patch notes</a>.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/22-transfers-items-from-your-hangar-in-game",
+      "de": "https://warrobotsfrontiers.com/de/news/22-transfers-items-from-your-hangar-in-game",
+      "en": "https://warrobotsfrontiers.com/en/news/22-transfers-items-from-your-hangar-in-game",
+      "es": "https://warrobotsfrontiers.com/es/news/22-transfers-items-from-your-hangar-in-game",
+      "fr": "https://warrobotsfrontiers.com/fr/news/22-transfers-items-from-your-hangar-in-game",
+      "jp": "https://warrobotsfrontiers.com/jp/news/22-transfers-items-from-your-hangar-in-game",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/22-transfers-items-from-your-hangar-in-game",
+      "tr": "https://warrobotsfrontiers.com/tr/news/22-transfers-items-from-your-hangar-in-game",
+      "tw": "https://warrobotsfrontiers.com/tw/news/22-transfers-items-from-your-hangar-in-game"
+    }
+  }
+}

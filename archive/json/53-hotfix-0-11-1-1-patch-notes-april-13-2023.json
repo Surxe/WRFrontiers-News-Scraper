@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 53,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1681376400,
+    "title": "Hotfix 0.11.1.1 Patch Notes (April 13, 2023)",
+    "summary": "Find out what we are fixing with this small update.",
+    "url": "https://warrobotsfrontiers.com/en/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These are the patch notes for the War Robots: Frontiers build available from April 13, 2023.</p>\r\n\r\n<p><strong>BUGS FIXED</strong></p>\r\n\r\n<ul>\r\n\t<li>Fixed Alpha (Titan) being unavailable to players who reached Level 10 prior to Update 0.11.1 (Overdrive).</li>\r\n\t<li>Fixed battle results window not showing after the end of the match.</li>\r\n\t<li>Fixed ability charge of chargeable abilities accumulating too fast when using Sticky Gun.</li>\r\n\t<li>Fixed Napalm damage figures not popping up next to the damaged target.</li>\r\n\t<li>Fixed the number of missile slots on the Vortex model not corresponding to the amount of ammo the weapon has.</li>\r\n\t<li>Fixed certain issues with the secondary stats of the Passive Shield ability.</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "de": "https://warrobotsfrontiers.com/de/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "en": "https://warrobotsfrontiers.com/en/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "es": "https://warrobotsfrontiers.com/es/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "fr": "https://warrobotsfrontiers.com/fr/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "jp": "https://warrobotsfrontiers.com/jp/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "tr": "https://warrobotsfrontiers.com/tr/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023",
+      "tw": "https://warrobotsfrontiers.com/tw/news/53-hotfix-0-11-1-1-patch-notes-april-13-2023"
+    }
+  }
+}

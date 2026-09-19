@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 44,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1678352400,
+    "title": "Patch Notes: Hotfix 1 for 0.11 (March 9, 2023)",
+    "summary": "A few fixes!",
+    "url": "https://warrobotsfrontiers.com/en/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These are the patch notes for the War Robots: Frontiers build available from March 9, 2023. Update your game to the latest version and start playing in Early Access!</p>\r\n\r\n<h2>BALANCE CHANGES</h2>\r\n\r\n<ul>\r\n\t<li>Reduced the detonation delay of the Sharp Feathers ability projectiles on Raven.</li>\r\n</ul>\r\n\r\n<h2>BUGS FIXED</h2>\r\n\r\n<ul>\r\n\t<li>Fixed an issue that prevented players from auto-spawning their Titans following the destruction of their remaining Robots.</li>\r\n\t<li>Fixed an issue that prevented Fowler weapons from dealing damage at large distances.</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "de": "https://warrobotsfrontiers.com/de/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "en": "https://warrobotsfrontiers.com/en/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "es": "https://warrobotsfrontiers.com/es/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "fr": "https://warrobotsfrontiers.com/fr/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "jp": "https://warrobotsfrontiers.com/jp/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "tr": "https://warrobotsfrontiers.com/tr/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023",
+      "tw": "https://warrobotsfrontiers.com/tw/news/44-patch-notes-hotfix-1-for-0-11-march-9-2023"
+    }
+  }
+}

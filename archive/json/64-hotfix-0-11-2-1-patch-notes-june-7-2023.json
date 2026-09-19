@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 64,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1686129155,
+    "title": "Hotfix 0.11.2.1 Patch Notes (June 7, 2023)",
+    "summary": "Find out what we are fixing with this small update.",
+    "url": "https://warrobotsfrontiers.com/en/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>These patch notes detail changes for the War Robots: Frontiers build available from June 7, 2023.</p>\r\n\r\n<p><strong>BUGS FIXED</strong></p>\r\n\r\n<ul>\r\n\t<li>Fixed crashes when launching the game on integrated AMD Radeon and AMD Radeon RX 400/500 Series.</li>\r\n</ul>\r\n\r\n<p><strong>OTHER IMPROVEMENTS</strong></p>\r\n\r\n<ul>\r\n\t<li>Added pop-up window at launch for systems and hardware that do not support DirectX 12.</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "de": "https://warrobotsfrontiers.com/de/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "en": "https://warrobotsfrontiers.com/en/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "es": "https://warrobotsfrontiers.com/es/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "fr": "https://warrobotsfrontiers.com/fr/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "jp": "https://warrobotsfrontiers.com/jp/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "tr": "https://warrobotsfrontiers.com/tr/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023",
+      "tw": "https://warrobotsfrontiers.com/tw/news/64-hotfix-0-11-2-1-patch-notes-june-7-2023"
+    }
+  }
+}

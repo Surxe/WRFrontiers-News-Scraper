@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 9,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1669309200,
+    "title": "Inventory and Item Transfers: All You Need To Know",
+    "summary": "Learn how to transfer your items in-game.",
+    "url": "https://warrobotsfrontiers.com/en/news/9-inventory-and-item-transfers-all-you-need-to-know",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/content/1150x645.png",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/content/1150x645.png",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Your War Robots: Frontiers <a href=\"https://wrfrontiers.com/inventory\">Inventory</a> is now live! The Inventory is a web-based interface that can be used to transfer purchased items and packs, gifts, items redeemed from codes, and earned items straight to your game.</p>\r\n\r\n<p>You can start using it today to send items to the platform you play War Robots: Frontiers on, including the MGLauncher and Steam.</p>\r\n\r\n<p><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/9/inventory_image_2.png\" /></p>\r\n\r\n<h2><strong>HOW TO TRANSFER ITEMS VIA THE HANGAR</strong></h2>\r\n\r\n<p>In the December 2022 Content Update, we introduced functionality that allows you to transfer items from your Inventory in-game. Simply go to your Hangar and press &lsquo;C&rsquo; (or find the button in the lower left corner) to begin the item transfer process.</p>\r\n\r\n<h2><strong>HOW TO TRANSFER ITEMS</strong></h2>\r\n\r\n<ul>\r\n\t<li>Log in to the <a href=\"https://wrfrontiers.com/\">War Robots: Frontiers website</a> using the account associated with the game.</li>\r\n\t<li>Go to your <a href=\"https://wrfrontiers.com/inventory\">Inventory</a>.</li>\r\n\t<li>Select the item(s) you wish to transfer, and verify that your details are correct.</li>\r\n\t<li>Confirm by clicking &lsquo;TRANSFER ITEMS&rsquo;, and then &lsquo;CONFIRM THE TRANSFER&rsquo;.</li>\r\n\t<li>You will receive any transferred items in your in-game inventory (please allow some time for your items to appear once sent).</li>\r\n\t<li>Enjoy your items! If you&rsquo;re having trouble receiving them, please contact <a href=\"https://support.my.games/wrf_int\">Support</a>.</li>\r\n</ul>\r\n\r\n<p><strong>IMPORTANT:</strong> The transfer process cannot be reversed. Ensure that your details are correct before confirming the transfer.</p>\r\n\r\n<p><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/9/inventory_image_3.png\" /></p>\r\n\r\n<p><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/9/inventory_image_1.png\" /></p>\r\n\r\n<p><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/11/9/inventory_image_4.png\" /></p>\r\n\r\n<h2><strong>WHAT CAN I TRANSFER?</strong></h2>\r\n\r\n<ul>\r\n\t<li>Pack contents (including Pioneer Packs)</li>\r\n\t<li>Newsletter rewards</li>\r\n\t<li>Items from codes, promotions, competitions, and special events</li>\r\n</ul>\r\n\r\n<h2><strong>PROGRESS WIPES</strong></h2>\r\n\r\n<p>We may conduct progress wipes while War Robots: Frontiers is in Early Access. If you transfer items to War Robots: Frontiers and the game later undergoes a progress wipe, don&rsquo;t worry: your items are safely tracked and will be available to transfer to the game again from your Inventory.</p>\r\n\r\n<h2><strong>ITEM TRANSFER RESTRICTIONS</strong></h2>\r\n\r\n<p>Not all items available in Pioneer Packs are available for immediate transfer from your Inventory to the game. At the release of Early Access, you will only be able to transfer Orkans and Varangian to your account. Please stay tuned for updates about when you can transfer restricted items to War Robots: Frontiers.</p>\r\n\r\n<p>Visit your <a href=\"https://wrfrontiers.com/inventory\">Inventory</a> to start transferring your items to War Robots: Frontiers today!</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "de": "https://warrobotsfrontiers.com/de/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "en": "https://warrobotsfrontiers.com/en/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "es": "https://warrobotsfrontiers.com/es/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "fr": "https://warrobotsfrontiers.com/fr/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "jp": "https://warrobotsfrontiers.com/jp/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "tr": "https://warrobotsfrontiers.com/tr/news/9-inventory-and-item-transfers-all-you-need-to-know",
+      "tw": "https://warrobotsfrontiers.com/tw/news/9-inventory-and-item-transfers-all-you-need-to-know"
+    }
+  }
+}

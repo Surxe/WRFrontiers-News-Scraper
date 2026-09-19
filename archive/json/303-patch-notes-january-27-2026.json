@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 303,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1769411100,
+    "title": "Patch Notes — January 27, 2026",
+    "summary": "Dive into the new update.",
+    "url": "https://warrobotsfrontiers.com/en/news/303-patch-notes-january-27-2026",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Patch Notes — January 27, 2026",
+    "meta_description": "Dive into the new update.",
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following patch will be deployed for War Robots: Frontiers following a short period of maintenance on January 27, 2026.</p>\r\n\r\n<h3>Bug Fixes</h3>\r\n\r\n<ul>\r\n\t<li>Fixed a bug that prevented the Hitcher torso from exiting the Central Camera.</li>\r\n\t<li>Fixed a bug where the Winged Drone was not correctly visible during matches.</li>\r\n\t<li>Fixed a bug that prevented the Hitcher shoulders from regenerating shields in certain circumstances.</li>\r\n\t<li>Fixed a bug where the Hitcher chassis received a speed boost when dashing.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p><strong>Download War Robots: Frontiers for free today:</strong></p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://warrobotsfrontiers.com/l/playstation\"><strong>PlayStation&reg;5</strong></a><strong>│</strong><a href=\"https://warrobotsfrontiers.com/l/playstation\"><strong>PlayStation&reg;4</strong></a><strong>│</strong><a href=\"https://warrobotsfrontiers.com/l/xbox\"><strong> </strong><strong>Xbox Series X|S</strong></a><strong> │</strong><a href=\"https://warrobotsfrontiers.com/l/xbox\"><strong>Xbox One</strong></a></p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://warrobotsfrontiers.com/l/steam\"><strong>Steam</strong></a><strong> │</strong><a href=\"https://my.games/play/war_robots_frontiers_mg\"><strong> </strong><strong>MY.GAMES Launcher</strong></a></p>\r\n\r\n<p>Stay tuned to our official<a href=\"https://x.com/WRFrontiers\"> X</a>,<a href=\"https://www.facebook.com/wrfrontiers\"> Facebook</a>,<a href=\"https://www.instagram.com/wrfrontiers/\"> Instagram</a>,<a href=\"https://www.youtube.com/channel/UC7xxqQkPAQ7x6wIVEPZus5w\"> YouTube</a>, and<a href=\"https://www.tiktok.com/@wrfrontiers\"> TikTok</a> channels, and join the<a href=\"https://www.reddit.com/r/warrobotsfrontiers/\"> War Robots: Frontiers subreddit</a> and<a href=\"https://warrobotsfrontiers.com/l/discord\"> Discord</a> for all the latest news and updates.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/303-patch-notes-january-27-2026",
+      "de": "https://warrobotsfrontiers.com/de/news/303-patch-notes-january-27-2026",
+      "en": "https://warrobotsfrontiers.com/en/news/303-patch-notes-january-27-2026",
+      "es": "https://warrobotsfrontiers.com/es/news/303-patch-notes-january-27-2026",
+      "fr": "https://warrobotsfrontiers.com/fr/news/303-patch-notes-january-27-2026",
+      "jp": "https://warrobotsfrontiers.com/jp/news/303-patch-notes-january-27-2026",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/303-patch-notes-january-27-2026",
+      "tr": "https://warrobotsfrontiers.com/tr/news/303-patch-notes-january-27-2026",
+      "tw": "https://warrobotsfrontiers.com/tw/news/303-patch-notes-january-27-2026"
+    }
+  }
+}

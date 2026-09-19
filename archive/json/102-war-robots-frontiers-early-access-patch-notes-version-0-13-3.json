@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 102,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1706536800,
+    "title": "War Robots: Frontiers - Early Access Patch Notes (Version 0.13.3)",
+    "summary": "This minor update addresses some balance issues and fixes one notable bug.",
+    "url": "https://warrobotsfrontiers.com/en/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Get ready, Pilots. The following changes are available in War Robots: Frontiers on Windows PC as of the latest update on January 30, 2024. Update your game to the latest version on MY.GAMES Launcher or Steam to play War Robots: Frontiers in Early Access.</p>\r\n\r\n<h1><strong>BALANCE CHANGES</strong></h1>\r\n\r\n<p><strong>WEAPONS</strong></p>\r\n\r\n<p>The following stats are relevant to the maximum Weapon level:</p>\r\n\r\n<ul>\r\n\t<li><strong>Shredder</strong>: Damage to shields reduced (300 &rarr; 280), and damage to hull reduced (550 &rarr; 360).</li>\r\n\t<li><strong>Trebuchet</strong>: Damage to shields increased (6,417 &rarr; 7,680), and damage to hull increased (8,108 &rarr; 9,730).</li>\r\n\t<li><strong>Dragoon</strong>: Damage to shields increased (6,125 &rarr; 7,712).</li>\r\n\t<li><strong>Thunder</strong>: Damage to hull increased (992 &rarr; 1,035).</li>\r\n\t<li><strong>Vortex</strong>: Damage to shields reduced (2,050 &rarr; 1,540), and damage to hull reduced (3,990 &rarr; 2,880)</li>\r\n\t<li><strong>Orkan</strong>: Damage to shields reduced (170 &rarr; 126), and damage to hull reduced (400 &rarr; 250); splash damage to hull increased (300 &rarr; 380).</li>\r\n\t<li><strong>Zeus</strong>: Damage to shields increased (8,167 &rarr; 9,800), and damage to hull increased (7,468 &rarr; 12,802).</li>\r\n\t<li><strong>Railgun</strong>: Damage to shields reduced (4,550 &rarr; 3,570), and damage to hull reduced (6,183 &rarr; 4,620).</li>\r\n\t<li><strong>Lighter</strong>: Damage to shields increased (183 &rarr; 210).</li>\r\n\t<li><strong>Fowler</strong>: Damage to shields reduced (525 &rarr; 490), and damage to hull reduced (758 &rarr; 658).</li>\r\n\t<li><strong>Gozer</strong>: Damage to shields reduced (397 &rarr; 259), and damage to hull reduced (338 &rarr; 203).</li>\r\n\t<li><strong>Sticky Gun</strong>: Splash damage to hull increased (217 &rarr; 517).</li>\r\n\t<li><strong>Quantum</strong>: Damage to shields reduced (4,500 &rarr; 3,230), and damage to hull reduced (4,750 &rarr; 3,440).</li>\r\n</ul>\r\n\r\n<p><strong>ROBOTS</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Blessing (Ravana Torso Ability):</strong> This Ability will now absorb 19% of incoming damage at Lvl 1 and 25% at Max Lvl.&nbsp;</li>\r\n</ul>\r\n\r\n<p><strong>PILOTS</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Wrecker: Rewind (Idy Demorest Skill):</strong> Upon activation, the Skill will reduce the reload time of an Ability currently on cooldown by 20%. The Skill will always prioritize the Ability with the least remaining cooldown time.</li>\r\n</ul>\r\n\r\n<h1><strong>BUGS FIXED</strong></h1>\r\n\r\n<ul>\r\n\t<li>Fixed multiple cases of sound distortion.</li>\r\n</ul>\r\n\r\n<p>War Robots: Frontiers is available in Early Access. Development is ongoing and relies on your feedback to help improve and polish the overall game experience. You may encounter gameplay and technical issues while playing in the meantime. The game will undergo regular maintenance as we deploy patches and hotfixes to resolve any issues. Please keep an eye on <a href=\"https://wr.app/FrontiersDiscord\">Discord</a> and future patch notes for more updates.&nbsp;</p>\r\n\r\n<p>If you need troubleshooting for common technical problems or account-related queries, or if you can&rsquo;t find a solution to your issue, please visit our <a href=\"https://support.my.games/wrf_int\">Support page</a>.</p>\r\n\r\n<hr />\r\n<p>Play War Robots: Frontiers now on PC via MY.GAMES Launcher and Steam with a <a href=\"https://wrfrontiers.com/packs\">Pioneer Pack</a>!</p>\r\n\r\n<p>Follow War Robots: Frontiers on <a href=\"https://wr.app/FrontiersDiscord\">Discord</a>, <a href=\"https://twitter.com/WRFrontiers\">X/Twitter</a>, <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a>, and <a href=\"https://www.instagram.com/wrfrontiers/\">Instagram</a>, subscribe to our <a href=\"https://www.youtube.com/channel/UC7xxqQkPAQ7x6wIVEPZus5w\">YouTube</a> channel for the latest videos, and sign up for the <a href=\"https://wrfrontiers.com/subscribe\">official newsletter</a> to stay on top of the latest news, updates, special offers, and more via email.</p>\r\n\r\n<p>All details in this article are accurate as of the time of publication. Follow War Robots: Frontiers on Discord and via social channels for up-to-date information.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "de": "https://warrobotsfrontiers.com/de/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "en": "https://warrobotsfrontiers.com/en/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "es": "https://warrobotsfrontiers.com/es/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "fr": "https://warrobotsfrontiers.com/fr/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "jp": "https://warrobotsfrontiers.com/jp/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "tr": "https://warrobotsfrontiers.com/tr/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3",
+      "tw": "https://warrobotsfrontiers.com/tw/news/102-war-robots-frontiers-early-access-patch-notes-version-0-13-3"
+    }
+  }
+}

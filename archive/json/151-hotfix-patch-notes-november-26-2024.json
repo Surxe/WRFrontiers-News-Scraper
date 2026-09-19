@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 151,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1732546800,
+    "title": "Hotfix: Patch Notes (November 26, 2024)",
+    "summary": "New for November.",
+    "url": "https://warrobotsfrontiers.com/en/news/151-hotfix-patch-notes-november-26-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on November 26, 2024.&nbsp;</p>\r\n\r\n<h2>General Fixes &amp; Improvements</h2>\r\n\r\n<ul>\r\n\t<li>The item rarity of the following items has been changed:\r\n\t<ul>\r\n\t\t<li>Tree Frog Paint Job &rarr; Epic</li>\r\n\t\t<li>Freecon Security Paint Job &rarr; Epic</li>\r\n\t\t<li>Desert Brawler Paint Job &rarr; Epic</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>New icons to showcase Weathering have been added to Robot customization.</li>\r\n</ul>\r\n\r\n<p style=\"text-align:center\"><strong><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2024/11/151-PatchNotes25/1.png\" /></strong></p>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug where Matriarch&rsquo;s Ability &ldquo;Drone Guard&rdquo; would disappear after launching them up in the air. Drone Guard will now remain until they touch down to the ground.</li>\r\n\t<li>Fixed a bug where Grim&rsquo;s Ability &ldquo;Grim Ripper&rdquo; would deal damage beyond its intended range.</li>\r\n\t<li>Fixed a bug where Alpha&rsquo;s Shoulder Modules received a bigger increase in Shield Value when upgrading them from Level 12 to 13. Level 13 Modules now receive the correct shield value of 13.951.</li>\r\n\t<li>Fixed a bug where the Pilot talent &ldquo;Take a Punch&rdquo; would light up Robot Modules in a bright light.</li>\r\n\t<li>Fixed a bug where the Skybox (ceiling) was too low on some maps, causing Abilities like Alpha&rsquo;s laser to hit the Skybox instead of the target in the area of effect.</li>\r\n</ul>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://warrobotsfrontiers.com/subscribe\"><strong><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Newsletter%20Buttons/en.png\" /></strong></a></p>\r\n\r\n<p>Get more of the latest news like this by following the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> (<a href=\"https://twitter.com/WRFrontiers\">Twitter</a>) and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and joining the <a href=\"https://wr.app/FrontiersDiscord\">official Discord server</a>.&nbsp;</p>\r\n\r\n<p>You can also wishlist and follow War Robots: Frontiers on <a href=\"https://store.steampowered.com/app/1491000\">Steam</a> to get the latest updates there.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/151-hotfix-patch-notes-november-26-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/151-hotfix-patch-notes-november-26-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/151-hotfix-patch-notes-november-26-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/151-hotfix-patch-notes-november-26-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/151-hotfix-patch-notes-november-26-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/151-hotfix-patch-notes-november-26-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/151-hotfix-patch-notes-november-26-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/151-hotfix-patch-notes-november-26-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/151-hotfix-patch-notes-november-26-2024"
+    }
+  }
+}

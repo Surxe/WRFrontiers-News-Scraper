@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 116,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1714129200,
+    "title": "Hotfix: Patch Notes (April 26, 2024)",
+    "summary": "Hot off the presses!",
+    "url": "https://warrobotsfrontiers.com/en/news/116-hotfix-patch-notes-april-26-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers (Early Access) and available following a short period of maintenance on April 26, 2024.&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>Improved client performance in Battle by optimizing parts of the interface and some visual effects.</li>\r\n\t<li>Fixed an issue that caused audio static to play when killing enemies using a Legendary Pilot.</li>\r\n\t<li>Improved the brightness setting screen, so changes made are now more noticeable.</li>\r\n\t<li>Fixed an issue that prevented audio cues from activating when removing parts in the Hangar.&nbsp;</li>\r\n\t<li>Fixed an issue that could cause players to get stuck in matchmaking. Players will now receive an &ldquo;unable to connect to the server&rdquo; message if a Battle cannot be found.&nbsp;</li>\r\n\t<li>Fixed a bug where incorrect values of damage dealt were being shown in Daily Contracts.</li>\r\n\t<li>Fixed an issue where friends appeared to be duplicated in the Social Tab.</li>\r\n</ul>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/116-hotfix-patch-notes-april-26-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/116-hotfix-patch-notes-april-26-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/116-hotfix-patch-notes-april-26-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/116-hotfix-patch-notes-april-26-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/116-hotfix-patch-notes-april-26-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/116-hotfix-patch-notes-april-26-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/116-hotfix-patch-notes-april-26-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/116-hotfix-patch-notes-april-26-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/116-hotfix-patch-notes-april-26-2024"
+    }
+  }
+}

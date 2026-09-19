@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 97,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1703246400,
+    "title": "Season’s Greetings From War Robots: Frontiers",
+    "summary": "And a happy new year!",
+    "url": "https://warrobotsfrontiers.com/en/news/97-season-s-greetings-from-war-robots-frontiers",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/12/97-SeasonGreeting/1150x645.png",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2023/12/97-SeasonGreeting/1150x645.png",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Happy holidays, Pilots! Thank you for playing War Robots: Frontiers this year&mdash;we are so grateful for all your feedback, playtime, and support. We hope you&rsquo;re looking forward to an amazing 2024!</p>\r\n\r\n<p>Check out your achievements and highlights of 2023 in our <strong>Season&rsquo;s Greetings video</strong> below. Stick around &lsquo;til the end to receive an <strong>extra special gift!</strong></p>\r\n\r\n<div class=\"embeddedContent oembed-provider-youtube\" data-align=\"center\" data-oembed=\"https://www.youtube.com/watch?v=XBIC-xOfyLo\" data-oembed_provider=\"youtube\" data-resizetype=\"noresize\" style=\"text-align:center\"><iframe allowfullscreen=\"true\" allowscriptaccess=\"always\" frameborder=\"0\" scrolling=\"no\" src=\"//www.youtube.com/embed/XBIC-xOfyLo?wmode=transparent&amp;jqoemcache=JiIyH\"></iframe></div>\r\n\r\n<p>Subscribe to our <a href=\"https://www.youtube.com/channel/UC7xxqQkPAQ7x6wIVEPZus5w\">YouTube channel</a> for more War Robots: Frontiers videos!&nbsp;</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/97-season-s-greetings-from-war-robots-frontiers",
+      "de": "https://warrobotsfrontiers.com/de/news/97-season-s-greetings-from-war-robots-frontiers",
+      "en": "https://warrobotsfrontiers.com/en/news/97-season-s-greetings-from-war-robots-frontiers",
+      "es": "https://warrobotsfrontiers.com/es/news/97-season-s-greetings-from-war-robots-frontiers",
+      "fr": "https://warrobotsfrontiers.com/fr/news/97-season-s-greetings-from-war-robots-frontiers",
+      "jp": "https://warrobotsfrontiers.com/jp/news/97-season-s-greetings-from-war-robots-frontiers",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/97-season-s-greetings-from-war-robots-frontiers",
+      "tr": "https://warrobotsfrontiers.com/tr/news/97-season-s-greetings-from-war-robots-frontiers",
+      "tw": "https://warrobotsfrontiers.com/tw/news/97-season-s-greetings-from-war-robots-frontiers"
+    }
+  }
+}

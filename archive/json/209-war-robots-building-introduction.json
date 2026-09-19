@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 209,
+    "category_id": 6,
+    "category_title": "GUIDES",
+    "category_url": "https://warrobotsfrontiers.com/news/guides",
+    "category_logo": null,
+    "published_at": 1747144800,
+    "title": "Video: Building Your War Robot",
+    "summary": "You are the Pilot and the engineer.",
+    "url": "https://warrobotsfrontiers.com/en/news/209-war-robots-building-introduction",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2025/05/209-Build Video/Preview.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2025/05/209-Build Video/Full1.webp",
+    "meta_title": "Video: Building Your War Robot",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Pick up those tools, Pilots. If you want to grind the enemy into cosmic dust, you&rsquo;ll need a War Robot to do it in. From Modules to Gear, Classes, Weapons, and Titans, there&rsquo;s a few things you&rsquo;ll need to balance, but you&rsquo;re more than up to the task.</p>\r\n\r\n<p>Learn everything you need to know about constructing and customizing your War Robots in this new video.</p>\r\n\r\n<div class=\"embeddedContent oembed-provider-youtube\" data-align=\"center\" data-oembed=\"https://www.youtube.com/watch?v=SSD6822uQAg\" data-oembed_provider=\"youtube\" data-resizetype=\"noresize\" style=\"text-align:center\"><iframe allowfullscreen=\"true\" allowscriptaccess=\"always\" frameborder=\"0\" scrolling=\"no\" src=\"//www.youtube.com/embed/SSD6822uQAg?wmode=transparent&amp;jqoemcache=tuxmX\"></iframe></div>\r\n\r\n<p>Discover more videos from the War Robots: Frontiers universe over on our <a href=\"https://www.youtube.com/@WRFrontiers\">official YouTube channel</a>!</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/209-war-robots-building-introduction",
+      "de": "https://warrobotsfrontiers.com/de/news/209-war-robots-building-introduction",
+      "en": "https://warrobotsfrontiers.com/en/news/209-war-robots-building-introduction",
+      "es": "https://warrobotsfrontiers.com/es/news/209-war-robots-building-introduction",
+      "fr": "https://warrobotsfrontiers.com/fr/news/209-war-robots-building-introduction",
+      "jp": "https://warrobotsfrontiers.com/jp/news/209-war-robots-building-introduction",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/209-war-robots-building-introduction",
+      "tr": "https://warrobotsfrontiers.com/tr/news/209-war-robots-building-introduction",
+      "tw": "https://warrobotsfrontiers.com/tw/news/209-war-robots-building-introduction"
+    }
+  }
+}

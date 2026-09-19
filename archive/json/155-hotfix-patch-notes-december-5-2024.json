@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 155,
+    "category_id": 1,
+    "category_title": "NEWS",
+    "category_url": "https://warrobotsfrontiers.com/news/articles",
+    "category_logo": null,
+    "published_at": 1733324400,
+    "title": "Hotfix: Patch Notes (December 5, 2024)",
+    "summary": "Festive fixes!",
+    "url": "https://warrobotsfrontiers.com/en/news/155-hotfix-patch-notes-december-5-2024",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/2022/Patch Notes 1.jpg",
+    "meta_title": null,
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> December 5, 2024.&nbsp;</strong></p>\r\n\r\n<h2>General Fixes &amp; Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Descriptions for the following abilities have been adjusted to include Area of Effect (AoE) Damage:\r\n\t<ul>\r\n\t\t<li>Steel Feathers</li>\r\n\t\t<li>Cold Snap</li>\r\n\t\t<li>Blast Wave</li>\r\n\t\t<li>Iron Rain</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>The ability &ldquo;Echo Burst&rdquo; has been rebalanced:\r\n\t<ul>\r\n\t\t<li>Now deals equal damage to shields throughout the whole blast radius, but damage to shields in every armor zone has been reduced by 50%. At level 13, the damage has been reduced from 16,000 to 8,000.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>The reload behavior of the weapon &ldquo;Gozer&rdquo; has been changed.\r\n\t<ul>\r\n\t\t<li>The weapon no longer continuously reloads while shooting. It is now a magazine.</li>\r\n\t\t<li>The reload speed is 2.5 seconds (across all levels).</li>\r\n\t\t<li>Damage to shields increases with upgrade level. At level 13, the damage to shields has been increased from 322 to 350.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>The calculation formula for ATK/DEF/MOB (Attack, Defense, Mobility) has been reworked.\r\n\t<ul>\r\n\t\t<li>These stats should now reflect the strengths of weapons and abilities more accurately.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>The charge accumulation rates for Cycle Gear and Titan Charge for all weapons.\r\n\t<ul>\r\n\t\t<li>It now takes roughly 3 minutes of continuous shooting to charge a Titan and 1 minute to charge up 250 units of charge.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://warrobotsfrontiers.com/subscribe\"><img alt=\"\" src=\"https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Newsletter%20Buttons/en.png\" /></a></p>\r\n\r\n<p>Get more of the latest news like this by following the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> (<a href=\"https://twitter.com/WRFrontiers\">Twitter</a>) and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and joining the <a href=\"https://wrfrontiers.com/l/discord\">official Discord server</a>.&nbsp;</p>\r\n\r\n<p>You can also wishlist and follow War Robots: Frontiers on <a href=\"https://store.steampowered.com/app/1491000\">Steam</a> to get the latest updates there.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/155-hotfix-patch-notes-december-5-2024",
+      "de": "https://warrobotsfrontiers.com/de/news/155-hotfix-patch-notes-december-5-2024",
+      "en": "https://warrobotsfrontiers.com/en/news/155-hotfix-patch-notes-december-5-2024",
+      "es": "https://warrobotsfrontiers.com/es/news/155-hotfix-patch-notes-december-5-2024",
+      "fr": "https://warrobotsfrontiers.com/fr/news/155-hotfix-patch-notes-december-5-2024",
+      "jp": "https://warrobotsfrontiers.com/jp/news/155-hotfix-patch-notes-december-5-2024",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/155-hotfix-patch-notes-december-5-2024",
+      "tr": "https://warrobotsfrontiers.com/tr/news/155-hotfix-patch-notes-december-5-2024",
+      "tw": "https://warrobotsfrontiers.com/tw/news/155-hotfix-patch-notes-december-5-2024"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "id": 219,
+    "category_id": 4,
+    "category_title": "UPDATES",
+    "category_url": "https://warrobotsfrontiers.com/news/updates",
+    "category_logo": null,
+    "published_at": 1747922460,
+    "title": "Hotfix Patch Notes — May 23, 2025",
+    "summary": "May this new patch improve your experience!",
+    "url": "https://warrobotsfrontiers.com/en/news/219-hotfix-patch-notes-may-23-2025",
+    "preview_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch NotesPreview Image 847x480.webp",
+    "full_image": "https://static-eu.prod-my.games/chronos-public-eu-wrf-prod/site/Patch notesFull Image 1220x560.webp",
+    "meta_title": "Hotfix Patch Notes — May 23, 2025",
+    "meta_description": null,
+    "related_tags": [],
+    "author": null,
+    "content": "<p>Attention, Pilots! The following hotfix will be deployed for War Robots: Frontiers following a short period of maintenance on<strong> May 23, 2025.</strong></p>\r\n\r\n<h2>General Adjustments</h2>\r\n\r\n<ul>\r\n\t<li>Launched the Intel Discount Event for the War Robots &ldquo;Orochi&rdquo; and &ldquo;Phantom&rdquo;.\r\n\t<ul>\r\n\t\t<li>Intel upgrade prices are significantly reduced for those War Robots.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<h2>Matchmaking</h2>\r\n\r\n<ul>\r\n\t<li>Players in Silver League will now match with players in Gold League.</li>\r\n</ul>\r\n\r\n<h2>Technical Improvements</h2>\r\n\r\n<ul>\r\n\t<li>Improved game performance.</li>\r\n</ul>\r\n\r\n<h2>Bug Fixes</h2>\r\n\r\n<ul>\r\n\t<li>Fixed a bug that caused the PlayStation 5 client to crash when using the weapon &ldquo;Shocktrain&rdquo;.</li>\r\n\t<li>Fixed a bug where the pop-up videos in the Training Battles (Tutorial) were not muted.</li>\r\n\t<li>Fixed a bug where the Store would automatically scroll all the way to the top.</li>\r\n\t<li>Fixed two Premium-related bugs:\r\n\t<ul>\r\n\t\t<li>Fixed a bug where Premium Jobs were not locked after the Premium Account status expired.</li>\r\n\t\t<li>Fixed occurrences of a bug where Premium Jobs were not unlocked after acquiring the Premium Account status.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p>Follow the game on <a href=\"https://twitter.com/WRFrontiers\">X</a> and <a href=\"https://www.facebook.com/wrfrontiers\">Facebook</a> and join the <a href=\"https://warrobotsfrontiers.com/l/discord\">official Discord server</a> to get all the latest hotfix info.</p>\r\n\r\n<p>Need help? Contact our <a href=\"https://support.my.games/wrf_int\">Support team</a> to report any issues you&rsquo;re facing on the Wild Ten.</p>",
+    "alternates": {
+      "cn": "https://warrobotsfrontiers.com/cn/news/219-hotfix-patch-notes-may-23-2025",
+      "de": "https://warrobotsfrontiers.com/de/news/219-hotfix-patch-notes-may-23-2025",
+      "en": "https://warrobotsfrontiers.com/en/news/219-hotfix-patch-notes-may-23-2025",
+      "es": "https://warrobotsfrontiers.com/es/news/219-hotfix-patch-notes-may-23-2025",
+      "fr": "https://warrobotsfrontiers.com/fr/news/219-hotfix-patch-notes-may-23-2025",
+      "jp": "https://warrobotsfrontiers.com/jp/news/219-hotfix-patch-notes-may-23-2025",
+      "pt-br": "https://warrobotsfrontiers.com/pt-br/news/219-hotfix-patch-notes-may-23-2025",
+      "tr": "https://warrobotsfrontiers.com/tr/news/219-hotfix-patch-notes-may-23-2025",
+      "tw": "https://warrobotsfrontiers.com/tw/news/219-hotfix-patch-notes-may-23-2025"
+    }
+  }
+}
