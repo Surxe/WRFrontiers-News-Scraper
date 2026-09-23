@@ -1,0 +1,471 @@
+{
+  "source": "War Robots: Frontiers depot build manifests",
+  "count": 93,
+  "manifests": [
+    {
+      "manifest_id": "5891357370822898705",
+      "created_at": "2026-09-15T07:16:00Z",
+      "created_at_unix": 1789456560
+    },
+    {
+      "manifest_id": "79796906025168538",
+      "created_at": "2026-08-25T07:31:11Z",
+      "created_at_unix": 1787643071
+    },
+    {
+      "manifest_id": "1835529706546077376",
+      "created_at": "2026-08-05T07:38:12Z",
+      "created_at_unix": 1785915492
+    },
+    {
+      "manifest_id": "6652119518685543174",
+      "created_at": "2026-08-04T07:50:06Z",
+      "created_at_unix": 1785829806
+    },
+    {
+      "manifest_id": "2251982061535306745",
+      "created_at": "2026-07-07T07:21:38Z",
+      "created_at_unix": 1783408898
+    },
+    {
+      "manifest_id": "2051578895192678048",
+      "created_at": "2026-06-23T07:22:19Z",
+      "created_at_unix": 1782199339
+    },
+    {
+      "manifest_id": "6582224550496527765",
+      "created_at": "2026-06-11T07:14:44Z",
+      "created_at_unix": 1781162084
+    },
+    {
+      "manifest_id": "164590850434004277",
+      "created_at": "2026-06-09T13:25:22Z",
+      "created_at_unix": 1781011522
+    },
+    {
+      "manifest_id": "6851508482193683865",
+      "created_at": "2026-06-09T07:08:09Z",
+      "created_at_unix": 1780988889
+    },
+    {
+      "manifest_id": "462980197660430554",
+      "created_at": "2026-05-21T09:16:14Z",
+      "created_at_unix": 1779354974
+    },
+    {
+      "manifest_id": "5911656272946768319",
+      "created_at": "2026-05-19T07:07:01Z",
+      "created_at_unix": 1779174421
+    },
+    {
+      "manifest_id": "2798333097616546012",
+      "created_at": "2026-04-21T07:05:48Z",
+      "created_at_unix": 1776755148
+    },
+    {
+      "manifest_id": "1512594299058000289",
+      "created_at": "2026-04-14T08:23:15Z",
+      "created_at_unix": 1776154995
+    },
+    {
+      "manifest_id": "1455010406646066972",
+      "created_at": "2026-04-02T07:08:58Z",
+      "created_at_unix": 1775113738
+    },
+    {
+      "manifest_id": "1736605790255577273",
+      "created_at": "2026-03-24T14:53:08Z",
+      "created_at_unix": 1774363988
+    },
+    {
+      "manifest_id": "4578646127172335342",
+      "created_at": "2026-03-24T07:06:09Z",
+      "created_at_unix": 1774335969
+    },
+    {
+      "manifest_id": "3489978791162495865",
+      "created_at": "2026-03-03T07:15:07Z",
+      "created_at_unix": 1772522107
+    },
+    {
+      "manifest_id": "6475408196533136819",
+      "created_at": "2026-02-13T07:08:55Z",
+      "created_at_unix": 1770966535
+    },
+    {
+      "manifest_id": "5166980368715739994",
+      "created_at": "2026-02-10T07:25:50Z",
+      "created_at_unix": 1770708350
+    },
+    {
+      "manifest_id": "1571939384733043173",
+      "created_at": "2026-01-27T07:15:58Z",
+      "created_at_unix": 1769498158
+    },
+    {
+      "manifest_id": "4113826535141576657",
+      "created_at": "2026-01-20T07:08:43Z",
+      "created_at_unix": 1768892923
+    },
+    {
+      "manifest_id": "4468428617242203702",
+      "created_at": "2025-12-23T07:31:42Z",
+      "created_at_unix": 1766475102
+    },
+    {
+      "manifest_id": "1188860574193583561",
+      "created_at": "2025-12-09T07:06:38Z",
+      "created_at_unix": 1765263998
+    },
+    {
+      "manifest_id": "4901696014107923561",
+      "created_at": "2025-11-25T07:10:16Z",
+      "created_at_unix": 1764054616
+    },
+    {
+      "manifest_id": "1640177700106009855",
+      "created_at": "2025-11-11T07:05:02Z",
+      "created_at_unix": 1762844702
+    },
+    {
+      "manifest_id": "608926238081997924",
+      "created_at": "2025-10-28T07:05:51Z",
+      "created_at_unix": 1761635151
+    },
+    {
+      "manifest_id": "3012191110119495710",
+      "created_at": "2025-10-21T07:04:04Z",
+      "created_at_unix": 1761030244
+    },
+    {
+      "manifest_id": "3650675484410111970",
+      "created_at": "2025-10-14T07:05:49Z",
+      "created_at_unix": 1760425549
+    },
+    {
+      "manifest_id": "9025892230053633300",
+      "created_at": "2025-09-30T07:08:52Z",
+      "created_at_unix": 1759216132
+    },
+    {
+      "manifest_id": "7050256552569802891",
+      "created_at": "2025-09-23T07:09:55Z",
+      "created_at_unix": 1758611395
+    },
+    {
+      "manifest_id": "4102495623663835520",
+      "created_at": "2025-09-09T07:03:48Z",
+      "created_at_unix": 1757401428
+    },
+    {
+      "manifest_id": "9188266781154825360",
+      "created_at": "2025-08-26T07:05:48Z",
+      "created_at_unix": 1756191948
+    },
+    {
+      "manifest_id": "2709841511380909074",
+      "created_at": "2025-08-19T07:05:02Z",
+      "created_at_unix": 1755587102
+    },
+    {
+      "manifest_id": "2489878289327873939",
+      "created_at": "2025-08-12T07:05:00Z",
+      "created_at_unix": 1754982300
+    },
+    {
+      "manifest_id": "1941453777569397920",
+      "created_at": "2025-07-31T07:04:14Z",
+      "created_at_unix": 1753945454
+    },
+    {
+      "manifest_id": "4039882065141667125",
+      "created_at": "2025-07-29T07:15:41Z",
+      "created_at_unix": 1753773341
+    },
+    {
+      "manifest_id": "21890129039702558",
+      "created_at": "2025-07-21T10:46:13Z",
+      "created_at_unix": 1753094773
+    },
+    {
+      "manifest_id": "6039918519378518728",
+      "created_at": "2025-07-15T07:14:00Z",
+      "created_at_unix": 1752563640
+    },
+    {
+      "manifest_id": "7331941677187369277",
+      "created_at": "2025-07-08T07:06:16Z",
+      "created_at_unix": 1751958376
+    },
+    {
+      "manifest_id": "3563085341847575561",
+      "created_at": "2025-07-01T07:07:02Z",
+      "created_at_unix": 1751353622
+    },
+    {
+      "manifest_id": "5543206095989981883",
+      "created_at": "2025-06-27T07:04:53Z",
+      "created_at_unix": 1751007893
+    },
+    {
+      "manifest_id": "1010947389447825649",
+      "created_at": "2025-06-24T07:05:10Z",
+      "created_at_unix": 1750748710
+    },
+    {
+      "manifest_id": "16345637381331294",
+      "created_at": "2025-06-19T12:33:42Z",
+      "created_at_unix": 1750336422
+    },
+    {
+      "manifest_id": "1783191766501180219",
+      "created_at": "2025-06-17T07:17:51Z",
+      "created_at_unix": 1750144671
+    },
+    {
+      "manifest_id": "1723841074310292122",
+      "created_at": "2025-06-03T07:03:43Z",
+      "created_at_unix": 1748934223
+    },
+    {
+      "manifest_id": "5175341236290293581",
+      "created_at": "2025-05-23T07:08:34Z",
+      "created_at_unix": 1747984114
+    },
+    {
+      "manifest_id": "1565169545208157165",
+      "created_at": "2025-05-15T07:15:02Z",
+      "created_at_unix": 1747293302
+    },
+    {
+      "manifest_id": "7798391484884814646",
+      "created_at": "2025-05-07T07:35:00Z",
+      "created_at_unix": 1746603300
+    },
+    {
+      "manifest_id": "6718986448380425303",
+      "created_at": "2025-04-30T07:04:50Z",
+      "created_at_unix": 1745996690
+    },
+    {
+      "manifest_id": "3756727583674225429",
+      "created_at": "2025-04-29T07:04:28Z",
+      "created_at_unix": 1745910268
+    },
+    {
+      "manifest_id": "7157564391956368021",
+      "created_at": "2025-04-17T07:09:34Z",
+      "created_at_unix": 1744873774
+    },
+    {
+      "manifest_id": "8343777389144466361",
+      "created_at": "2025-04-08T07:13:12Z",
+      "created_at_unix": 1744096392
+    },
+    {
+      "manifest_id": "6202203227171547092",
+      "created_at": "2025-04-03T07:05:05Z",
+      "created_at_unix": 1743663905
+    },
+    {
+      "manifest_id": "9163334485183125780",
+      "created_at": "2025-03-25T08:09:40Z",
+      "created_at_unix": 1742890180
+    },
+    {
+      "manifest_id": "7760327774040463908",
+      "created_at": "2025-03-20T11:08:20Z",
+      "created_at_unix": 1742468900
+    },
+    {
+      "manifest_id": "4398910429986366963",
+      "created_at": "2025-03-14T13:02:50Z",
+      "created_at_unix": 1741957370
+    },
+    {
+      "manifest_id": "4185395048199448749",
+      "created_at": "2025-03-13T11:35:25Z",
+      "created_at_unix": 1741865725
+    },
+    {
+      "manifest_id": "3835213487253451291",
+      "created_at": "2025-03-10T09:30:27Z",
+      "created_at_unix": 1741599027
+    },
+    {
+      "manifest_id": "945707876982259050",
+      "created_at": "2025-03-06T18:31:14Z",
+      "created_at_unix": 1741285874
+    },
+    {
+      "manifest_id": "1063002944066813183",
+      "created_at": "2025-03-04T17:50:07Z",
+      "created_at_unix": 1741110607
+    },
+    {
+      "manifest_id": "1088726495407671620",
+      "created_at": "2025-02-13T10:03:01Z",
+      "created_at_unix": 1739440981
+    },
+    {
+      "manifest_id": "2984351382657729239",
+      "created_at": "2025-02-05T09:59:47Z",
+      "created_at_unix": 1738749587
+    },
+    {
+      "manifest_id": "1142684794696631058",
+      "created_at": "2025-01-28T16:23:03Z",
+      "created_at_unix": 1738081383
+    },
+    {
+      "manifest_id": "8655744535032809270",
+      "created_at": "2024-12-11T14:10:00Z",
+      "created_at_unix": 1733926200
+    },
+    {
+      "manifest_id": "4198215861516581243",
+      "created_at": "2024-12-05T09:56:08Z",
+      "created_at_unix": 1733392568
+    },
+    {
+      "manifest_id": "4574838268664378799",
+      "created_at": "2024-11-26T09:58:45Z",
+      "created_at_unix": 1732615125
+    },
+    {
+      "manifest_id": "3430687836823392065",
+      "created_at": "2024-11-12T10:28:01Z",
+      "created_at_unix": 1731407281
+    },
+    {
+      "manifest_id": "8199799638587362140",
+      "created_at": "2024-10-29T10:44:06Z",
+      "created_at_unix": 1730198646
+    },
+    {
+      "manifest_id": "7035227249040305866",
+      "created_at": "2024-10-15T09:53:01Z",
+      "created_at_unix": 1728985981
+    },
+    {
+      "manifest_id": "3766431905578787412",
+      "created_at": "2024-09-10T07:57:18Z",
+      "created_at_unix": 1725955038
+    },
+    {
+      "manifest_id": "6112499795712965458",
+      "created_at": "2024-08-22T08:00:40Z",
+      "created_at_unix": 1724313640
+    },
+    {
+      "manifest_id": "134171959830395105",
+      "created_at": "2024-08-15T08:57:05Z",
+      "created_at_unix": 1723712225
+    },
+    {
+      "manifest_id": "6863881809173827058",
+      "created_at": "2024-08-07T07:51:58Z",
+      "created_at_unix": 1723017118
+    },
+    {
+      "manifest_id": "4671576630709717109",
+      "created_at": "2024-07-31T10:30:23Z",
+      "created_at_unix": 1722421823
+    },
+    {
+      "manifest_id": "2481925671539334701",
+      "created_at": "2024-07-31T09:42:49Z",
+      "created_at_unix": 1722418969
+    },
+    {
+      "manifest_id": "5980479991599291533",
+      "created_at": "2024-07-31T07:55:24Z",
+      "created_at_unix": 1722412524
+    },
+    {
+      "manifest_id": "5635875458103579186",
+      "created_at": "2024-07-24T16:34:21Z",
+      "created_at_unix": 1721838861
+    },
+    {
+      "manifest_id": "77386588557613375",
+      "created_at": "2024-07-24T13:02:38Z",
+      "created_at_unix": 1721826158
+    },
+    {
+      "manifest_id": "2296391837180360329",
+      "created_at": "2024-07-23T15:17:03Z",
+      "created_at_unix": 1721747823
+    },
+    {
+      "manifest_id": "2843913804226813051",
+      "created_at": "2024-07-23T09:22:45Z",
+      "created_at_unix": 1721726565
+    },
+    {
+      "manifest_id": "3927510468819125018",
+      "created_at": "2024-07-11T18:19:49Z",
+      "created_at_unix": 1720721989
+    },
+    {
+      "manifest_id": "114375068855038214",
+      "created_at": "2024-07-11T12:58:40Z",
+      "created_at_unix": 1720702720
+    },
+    {
+      "manifest_id": "5863894167499024366",
+      "created_at": "2024-07-09T12:46:01Z",
+      "created_at_unix": 1720529161
+    },
+    {
+      "manifest_id": "662036679968161090",
+      "created_at": "2024-06-11T09:20:22Z",
+      "created_at_unix": 1718097622
+    },
+    {
+      "manifest_id": "9072150412955894871",
+      "created_at": "2024-05-21T10:02:48Z",
+      "created_at_unix": 1716285768
+    },
+    {
+      "manifest_id": "9148430185100522411",
+      "created_at": "2024-04-26T14:23:09Z",
+      "created_at_unix": 1714141389
+    },
+    {
+      "manifest_id": "5481125754036688496",
+      "created_at": "2024-04-10T09:01:15Z",
+      "created_at_unix": 1712739675
+    },
+    {
+      "manifest_id": "9112610359679875172",
+      "created_at": "2024-04-03T10:08:34Z",
+      "created_at_unix": 1712138914
+    },
+    {
+      "manifest_id": "3300945048763143056",
+      "created_at": "2024-03-27T12:01:52Z",
+      "created_at_unix": 1711540912
+    },
+    {
+      "manifest_id": "2984150173456401570",
+      "created_at": "2023-06-30T10:10:04Z",
+      "created_at_unix": 1688119804
+    },
+    {
+      "manifest_id": "7897957070740445870",
+      "created_at": "2023-05-29T13:21:12Z",
+      "created_at_unix": 1685366472
+    },
+    {
+      "manifest_id": "4602741667932435882",
+      "created_at": "2022-11-24T13:44:09Z",
+      "created_at_unix": 1669297449
+    },
+    {
+      "manifest_id": "2235241530007246928",
+      "created_at": "2022-11-24T12:59:59Z",
+      "created_at_unix": 1669294799
+    }
+  ]
+}
