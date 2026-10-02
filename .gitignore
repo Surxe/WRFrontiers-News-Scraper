@@ -1,7 +1,9 @@
-# Snapshot output — local working data, not tracked.
-# NOTE: ignoring this means git history will NOT record how WRF edits posts
-# between snapshots. Un-ignore data/ if you want that diff history.
+# Snapshot output + watch state — local working data, not tracked.
 /data/
+
+# Scraped catalog — local working data, rebuilt by `scripts/archive.py`. Not
+# tracked, so git history does NOT record how WRF edits posts.
+/archive/
 
 # Python
 __pycache__/

@@ -2,10 +2,10 @@
 """Archive every article in the War Robots: Frontiers news feed.
 
 Companion to snapshot.py. Where snapshot.py grabs the 3 latest into a per-day,
-gitignored `data/` bucket, this builds a *single, committed, canonical archive*
-of the whole catalog under `archive/` — one file per article, keyed by id — so
-`git diff`/`git log -p archive/` becomes the record of how WRF edits posts over
-time.
+gitignored `data/` bucket, this builds a *single, canonical local archive* of
+the whole catalog under `archive/` — one file per article, keyed by id — that the
+detector reads. `archive/` is gitignored too: it is working data, rebuilt by
+running this script (no flags = full catalog) on a fresh clone.
 
 Same JSON API, standard library only:
 

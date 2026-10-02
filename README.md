@@ -18,7 +18,7 @@ Run on a schedule (systemd timer on the home server — see
 [`docs/HOME-SERVER-HANDOFF.md`](docs/HOME-SERVER-HANDOFF.md)):
 
 1. **Scrape** — `archive.py --latest 3` fetches the 3 latest posts and persists
-   each (payload + body) into the committed `archive/`.
+   each (payload + body) into the local, gitignored `archive/`.
 2. **Detect + dispatch** — `watch_discount.py` reads those persisted posts,
    identifies the discount post, reduces its current week to a canonical id, and
    — if that week is new — dispatches the visualizer's `all.yml` workflow with the
@@ -51,7 +51,7 @@ recognized as already-handled.
 
 | Script | Role |
 |---|---|
-| `scripts/archive.py` | Scrape + persist. `--latest N` for the N newest, or all pages for a full catalog. Idempotent; verbatim payloads so `git diff archive/` shows only WRF's edits. |
+| `scripts/archive.py` | Scrape + persist. `--latest N` for the N newest, or all pages for a full catalog. Idempotent. Run with no flags on a fresh clone to rebuild the full `archive/`. |
 | `scripts/detect.py` | The discount signal + week parsing (`is_discount`, `current_week`, `week_id`, `week_range_mmdd`, `discount_items`). `--verify` checks it against the archive. |
 | `scripts/watch_discount.py` | Detect a new discount week from the archive and dispatch the visualizer (dry-run unless `--dispatch` / `WRF_DISPATCH=1`). |
 | `scripts/snapshot.py` | Standalone per-day snapshot into gitignored `data/` (the original manual tool; kept for ad-hoc diffing). |
@@ -68,7 +68,7 @@ python3 scripts/detect.py --verify             # re-validate the signal
 ```
 WRFrontiers-News-Scraper/
 ├── scripts/         archive.py, detect.py, watch_discount.py, snapshot.py
-├── archive/         committed catalog: index.json + json/ + html/
+├── archive/         gitignored: scraped catalog (index.json + json/ + html/)
 ├── data/            gitignored: snapshot.py output + watch_state.json
 ├── assets/          launcher icon
 └── docs/            HOME-SERVER-HANDOFF.md
