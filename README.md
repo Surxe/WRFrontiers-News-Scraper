@@ -14,8 +14,13 @@ directly instead of scraping HTML:
 
 ## The pipeline (two steps)
 
-Run on a schedule (systemd timer on the home server — see
-[`docs/HOME-SERVER-HANDOFF.md`](docs/HOME-SERVER-HANDOFF.md)):
+Run on a schedule on the home server: the `hs-wrf-discount-watch` timer
+(home-server repo) runs
+[WRFrontiersDB-Orchestrator](https://github.com/Surxe/WRFrontiersDB-Orchestrator)'s
+discount run (`src/discount.py`), which runs both steps below as logged stages,
+waits for the dispatched visualizer run to finish, and emails a report when a new
+week was found or anything failed. The scripts stay standalone and stdlib-only;
+they run fine by hand too.
 
 1. **Scrape** — `archive.py --latest 3` fetches the 3 latest posts and persists
    each (payload + body) into the local, gitignored `archive/`.
@@ -23,7 +28,7 @@ Run on a schedule (systemd timer on the home server — see
    identifies the discount post, reduces its current week to a canonical id, and
    — if that week is new — dispatches the visualizer's `all.yml` workflow with the
    as-announced item names + `MM-DD MM-DD` date range. The visualizer does its own
-   name→game-id mapping. (A future PR may add an LLM name-resolution step.)
+   name→game-id mapping (manual pin, exact name, then its Jev classifier).
 
 ### How the discount post is identified
 
@@ -70,8 +75,7 @@ WRFrontiers-News-Scraper/
 ├── scripts/         archive.py, detect.py, watch_discount.py, snapshot.py
 ├── archive/         gitignored: scraped catalog (index.json + json/ + html/)
 ├── data/            gitignored: snapshot.py output + watch_state.json
-├── assets/          launcher icon
-└── docs/            HOME-SERVER-HANDOFF.md
+└── assets/          launcher icon
 ```
 
 `gh` (for the dispatch) is authenticated as the `dev` user on the home server.
