@@ -39,6 +39,7 @@ import detect  # noqa: E402
 REPO = Path(__file__).resolve().parent.parent
 VIS_REPO = "Surxe/WRFrontiers-Discount-Visualizer"
 VIS_WORKFLOW = "all.yml"
+VIS_WEEKS_PATH = "src/frontend/public/data/weeks.json"
 
 
 def slug_from_url(url: str, article_id) -> str:
@@ -71,6 +72,21 @@ def latest_discount_from_archive(archive: Path, n: int):
             if best is None or (art.get("published_at") or 0) > (best.get("published_at") or 0):
                 best = art
     return best
+
+
+def published_weeks():
+    """Week slugs (canonical `YYYY-MM-DD` start dates) already in the visualizer's
+    weeks.json on its default branch, or None if it can't be read. A week deployed by
+    hand (all.yml run manually, e.g. before the news post) is listed here."""
+    cmd = ["gh", "api", f"repos/{VIS_REPO}/contents/{VIS_WEEKS_PATH}",
+           "-H", "Accept: application/vnd.github.raw"]
+    try:
+        out = subprocess.run(cmd, check=True, capture_output=True, text=True).stdout
+        return {w.get("slug") for w in json.loads(out).get("weeks", [])}
+    except (FileNotFoundError, subprocess.CalledProcessError, json.JSONDecodeError,
+            AttributeError) as e:
+        print(json.dumps({"event": "published-check-error", "error": str(e)[:300]}))
+        return None
 
 
 def dispatch_visualizer(items_csv: str, date_range: str, skip_deploy: bool, do_it: bool):
@@ -161,6 +177,20 @@ def main() -> int:
     if wid is None:
         event["warning"] = "could not parse a canonical week id"
     print(json.dumps(event, ensure_ascii=False))
+
+    # Already deployed by hand -> record it, don't re-run the visualizer. If the
+    # check itself fails, fall through and dispatch (the re-run is harmless).
+    published = published_weeks() if wid else None
+    if published is not None and wid in published:
+        parsed.append(dedup)
+        args.state.write_text(json.dumps(
+            {"parsed_weeks": parsed,
+             "last": {"id": article["id"], "week_id": wid, "week": week,
+                      "date_range": date_range, "dispatched": "already-published",
+                      "checked_at": int(time.time())}},
+            indent=2) + "\n", encoding="utf-8")
+        print(json.dumps({"event": "already-published", "week_id": wid}))
+        return 0
 
     do_dispatch = args.dispatch or os.environ.get("WRF_DISPATCH") == "1"
     dispatched = "skipped"
