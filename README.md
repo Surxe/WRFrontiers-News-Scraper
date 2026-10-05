@@ -52,6 +52,12 @@ parsed weeks in its state file and never re-dispatches one — so extra polls an
 catch-ups are free, and a week that resurfaces under a new post id is still
 recognized as already-handled.
 
+Before dispatching a new week it also checks the visualizer's `weeks.json` on its
+default branch: if that week's slug is already there (you ran `all.yml` by hand, e.g.
+ahead of the news post), it records the week and prints `already-published` instead
+of re-running the visualizer. Running `all.yml` by hand is never blocked, so you can
+still re-run a week to fix it. If the check fails, it dispatches as before.
+
 ## Scripts
 
 | Script | Role |
