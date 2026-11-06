@@ -89,8 +89,12 @@ def week_blocks(content: str):
         body = parts[i + 1] if i + 1 < len(parts) else ""
         cats = {}
         for label in _CATEGORY_LABELS:
+            # The colon has been both inside the bold ("<strong>Gear:</strong>",
+            # older posts) and outside it ("<strong>Gear</strong>:", Nov 2026+).
             m = re.search(
-                re.escape(label) + r"\s*:\s*(?:&nbsp;|\s)*</strong>\s*(?:&nbsp;)?\s*([^<]*)",
+                re.escape(label)
+                + r"(?:&nbsp;|\s)*(?::(?:&nbsp;|\s)*</strong>|</strong>(?:&nbsp;|\s)*:)"
+                + r"(?:&nbsp;|\s)*([^<]*)",
                 body,
             )
             if m:
