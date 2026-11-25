@@ -21,10 +21,11 @@ Why this signal (validated against the full 298-article archive, see --verify):
         those labels for balance changes.
 
 Public API:
-    is_discount(content)   -> bool
-    current_week(content)  -> str | None   # raw date range of the top block
-    week_id(content, ts)   -> str | None   # canonical "YYYY-MM-DD" start-of-week key
-    week_blocks(content)   -> list[(range, {category: [names]})]  # newest-first
+    is_discount(content)       -> bool
+    current_week(content)      -> str | None   # raw date range of the top block
+    week_id(content, ts)       -> str | None   # canonical "YYYY-MM-DD" start-of-week key
+    week_blocks(content)       -> list[(range, {category: [names]})]  # newest-first
+    level_discount_note(content) -> str | None  # plain-text level-restriction note
 
 The canonical week_id() is the dedup key: two snapshots of the same discount week
 produce the same id regardless of en-dash/hyphen or cross-month text drift, so the
@@ -196,6 +197,42 @@ def discount_items(content: str):
     for label in _CATEGORY_LABELS:
         out.extend(cats.get(label, []))
     return out
+
+
+# --- level-discount note -----------------------------------------------------
+# WRF began tagging some weeks with a level restriction, e.g. (Nov 2026):
+#     "This week's upgrade discounts are available only for items at level 9 or higher."
+# This is plain natural language, so the scraper only has to *extract* it; the
+# Discount-Visualizer's LLM classifier turns it into a start/end level range.
+_TAG_RE = re.compile(r"<[^>]+>")
+_WS_RE = re.compile(r"\s+")
+_LEADING_SYMBOL_RE = re.compile(r"^[^A-Za-z0-9]+")
+
+
+def current_block_body(content: str) -> str:
+    """Raw HTML body of the newest schedule block, or '' (the text after its header)."""
+    parts = _HEADER_RE.split(content or "")
+    return parts[2] if len(parts) >= 3 else ""
+
+
+def level_discount_note(content: str) -> str | None:
+    """The current week's level-restriction note as plain text, or None.
+
+    Searches only the newest schedule block (the current week), so the historical
+    "Level N:" cost tables at the bottom of the post can never match. A note is any
+    sentence in that block that mentions a level and a number; the first one wins.
+    Leading decoration (emoji, "!") is stripped, so the note reads cleanly for the
+    LLM classifier. Returns None when the week carries no note — the discount then
+    spans all levels (the historical default).
+    """
+    body = current_block_body(content)
+    for chunk in re.split(r"</p>|</li>", body or ""):
+        text = html.unescape(chunk)
+        text = _WS_RE.sub(" ", _TAG_RE.sub(" ", text)).strip()
+        text = _LEADING_SYMBOL_RE.sub("", text).strip()
+        if re.search(r"\blevels?\b", text, re.IGNORECASE) and re.search(r"\d", text):
+            return text
+    return None
 
 
 def _verify() -> int:
