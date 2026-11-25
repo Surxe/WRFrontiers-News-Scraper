@@ -89,11 +89,19 @@ def published_weeks():
         return None
 
 
-def dispatch_visualizer(items_csv: str, date_range: str, skip_deploy: bool, do_it: bool):
-    """Fire (or print) the visualizer workflow_dispatch."""
+def dispatch_visualizer(items_csv: str, date_range: str, skip_deploy: bool,
+                        do_it: bool, level_discount_note: str = ""):
+    """Fire (or print) the visualizer workflow_dispatch.
+
+    ``level_discount_note`` is appended only when non-empty, so a week with no
+    level restriction dispatches the same three inputs as before (and can't hit
+    an older visualizer workflow that predates the new input).
+    """
     cmd = ["gh", "workflow", "run", VIS_WORKFLOW, "-R", VIS_REPO,
            "-f", f"items={items_csv}", "-f", f"target_date_range={date_range}",
            "-f", f"skip_deploy={'true' if skip_deploy else 'false'}"]
+    if level_discount_note:
+        cmd += ["-f", f"level_discount_note={level_discount_note}"]
     if not do_it:
         print(json.dumps({"event": "dispatch-dry-run", "cmd": cmd}))
         return "dry-run"
@@ -167,6 +175,7 @@ def main() -> int:
     items = detect.discount_items(content)
     items_csv = ", ".join(items)
     date_range = detect.week_range_mmdd(content)
+    level_note = detect.level_discount_note(content)
 
     event = {
         "event": "discount-announced",
@@ -174,6 +183,8 @@ def main() -> int:
         "week_id": wid, "week": week, "date_range": date_range,
         "items": items, "first_run": not prev,
     }
+    if level_note:
+        event["level_discount_note"] = level_note
     if wid is None:
         event["warning"] = "could not parse a canonical week id"
     print(json.dumps(event, ensure_ascii=False))
@@ -195,7 +206,8 @@ def main() -> int:
     do_dispatch = args.dispatch or os.environ.get("WRF_DISPATCH") == "1"
     dispatched = "skipped"
     if date_range and items_csv:
-        dispatched = dispatch_visualizer(items_csv, date_range, args.skip_deploy, do_dispatch)
+        dispatched = dispatch_visualizer(items_csv, date_range, args.skip_deploy,
+                                         do_dispatch, level_note or "")
     else:
         print(json.dumps({"event": "dispatch-skipped",
                           "reason": "missing date_range or items", "date_range": date_range}))
